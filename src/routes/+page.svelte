@@ -11,7 +11,6 @@
   $: res = res.filter(a => a.city === city)
   $: res = res.filter(a => {
     const now = new Date()
-    now.setHours(10,30)
     const day = now.getDay()
     const now_minutes = now.getHours() * 60 + now.getMinutes();
     const [from, to] = day < 5 ? a.delovniCasTeden : day == 5 ? a.delovniCasSobota : a.delovniCasNedelja;
