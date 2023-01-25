@@ -1,0 +1,8018 @@
+[
+ {
+  "lat": 46.05244723,
+  "lon": 14.51096893,
+  "naslov": "Trubarjeva cesta 40",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "1478",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1478",
+  "lokal": "ABI FALAFEL",
+  "city": "LJUBLJANA",
+  "sort-group": 65,
+  "delovniCasTeden": [
+   600,
+   1260
+  ],
+  "delovniCasSobota": [
+   600,
+   1260
+  ],
+  "delovniCasNedelja": [
+   720,
+   1260
+  ]
+ },
+ {
+  "lat": 46.0681081,
+  "lon": 14.5420462,
+  "naslov": "\u0160martinska cesta 152",
+  "cena": 8.8,
+  "doplacilo": 5.3,
+  "posid": "2999",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2999",
+  "lokal": "AJDA BURGERS & MORE BTC",
+  "city": "LJUBLJANA",
+  "sort-group": 65,
+  "delovniCasTeden": [
+   540,
+   1320
+  ],
+  "delovniCasSobota": [
+   660,
+   1320
+  ],
+  "delovniCasNedelja": [
+   660,
+   1320
+  ]
+ },
+ {
+  "lat": 46.0574226,
+  "lon": 14.509497,
+  "naslov": "Trg OF 13",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "2549",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2549",
+  "lokal": "AJDA BURGERS & MORE POSTAJA",
+  "city": "LJUBLJANA",
+  "sort-group": 65,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   480,
+   1320
+  ]
+ },
+ {
+  "lat": 46.0678561,
+  "lon": 14.5107121,
+  "naslov": "Topni\u0161ka 29a",
+  "cena": 4.7,
+  "doplacilo": 1.2,
+  "posid": "1772",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1772",
+  "lokal": "AMBIENT",
+  "city": "LJUBLJANA",
+  "sort-group": 65,
+  "delovniCasTeden": [
+   480,
+   720
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0756183,
+  "lon": 14.5131624,
+  "naslov": "Kardeljeva plo\u0161\u010dad 5",
+  "cena": 4.5,
+  "doplacilo": 1.0,
+  "posid": "2924",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2924",
+  "lokal": "AULA COFE",
+  "city": "LJUBLJANA",
+  "sort-group": 65,
+  "delovniCasTeden": [
+   480,
+   1260
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0746675,
+  "lon": 14.5151594,
+  "naslov": "Gosarjeva ulica 5",
+  "cena": 4.5,
+  "doplacilo": 1.0,
+  "posid": "3190",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3190",
+  "lokal": "AULA FOOD",
+  "city": "LJUBLJANA",
+  "sort-group": 65,
+  "delovniCasTeden": [
+   480,
+   1260
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 45.8031116,
+  "lon": 15.1692868,
+  "naslov": "Muzejska ulica 3",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "3228",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3228",
+  "lokal": "AZIJSKA RESTAVRACIJA ATMA",
+  "city": "NOVO MESTO",
+  "sort-group": 65,
+  "delovniCasTeden": [
+   660,
+   1320
+  ],
+  "delovniCasSobota": [
+   720,
+   1320
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0506054,
+  "lon": 14.5045463,
+  "naslov": "Kongresni trg 3",
+  "cena": 8.9,
+  "doplacilo": 5.4,
+  "posid": "2147",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2147",
+  "lokal": "AZIJSKA RESTAVRACIJA HAN",
+  "city": "LJUBLJANA",
+  "sort-group": 65,
+  "delovniCasTeden": [
+   660,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   1260
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0449756,
+  "lon": 14.4713376,
+  "naslov": "Pokljukarjeva ulica 29",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "3194",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3194",
+  "lokal": "AZIJSKA RESTAVRACIJA IZAKAJA",
+  "city": "LJUBLJANA",
+  "sort-group": 65,
+  "delovniCasTeden": [
+   720,
+   1320
+  ],
+  "delovniCasSobota": [
+   720,
+   1320
+  ],
+  "delovniCasNedelja": [
+   720,
+   1320
+  ]
+ },
+ {
+  "lat": 45.5463308,
+  "lon": 13.729011,
+  "naslov": "\u017dupan\u010di\u010deva ulica 39",
+  "cena": 8.5,
+  "doplacilo": 5.0,
+  "posid": "3206",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3206",
+  "lokal": "AZURE BISTRO",
+  "city": "KOPER/CAPODISTRIA",
+  "sort-group": 65,
+  "delovniCasTeden": [
+   660,
+   1140
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0693078,
+  "lon": 14.5484774,
+  "naslov": "Moskovska ulica 4",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2488",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2488",
+  "lokal": "BALKAN EXPRESS",
+  "city": "LJUBLJANA",
+  "sort-group": 66,
+  "delovniCasTeden": [
+   600,
+   1080
+  ],
+  "delovniCasSobota": [
+   600,
+   1080
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.078743,
+  "lon": 14.495953,
+  "naslov": "Litostrojska cesta 44E",
+  "cena": 7.5,
+  "doplacilo": 4.0,
+  "posid": "3042",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3042",
+  "lokal": "BAR MOMENT",
+  "city": "LJUBLJANA",
+  "sort-group": 66,
+  "delovniCasTeden": [
+   600,
+   990
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0744262,
+  "lon": 14.5119666,
+  "naslov": "Dunajska cesta 106",
+  "cena": 8.9,
+  "doplacilo": 5.4,
+  "posid": "2133",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2133",
+  "lokal": "BARBADO",
+  "city": "LJUBLJANA",
+  "sort-group": 66,
+  "delovniCasTeden": [
+   600,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 45.5478156,
+  "lon": 13.7259576,
+  "naslov": "Carpacciov trg 6",
+  "cena": 7.9,
+  "doplacilo": 4.4,
+  "posid": "3207",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3207",
+  "lokal": "BA\u0160\u010cAR\u0160IJA KOPER CARPACCIOV TRG",
+  "city": "KOPER/CAPODISTRIA",
+  "sort-group": 66,
+  "delovniCasTeden": [
+   600,
+   1320
+  ],
+  "delovniCasSobota": [
+   600,
+   1320
+  ],
+  "delovniCasNedelja": [
+   600,
+   1320
+  ]
+ },
+ {
+  "lat": 46.5620837,
+  "lon": 15.6323094,
+  "naslov": "Gosposvetska cesta 43c",
+  "cena": 7.9,
+  "doplacilo": 4.4,
+  "posid": "3237",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3237",
+  "lokal": "BA\u0160\u010cAR\u0160IJA MARIBOR GOSPOSVETSKA",
+  "city": "MARIBOR",
+  "sort-group": 66,
+  "delovniCasTeden": [
+   600,
+   1320
+  ],
+  "delovniCasSobota": [
+   600,
+   1320
+  ],
+  "delovniCasNedelja": [
+   660,
+   1260
+  ]
+ },
+ {
+  "lat": 46.559173,
+  "lon": 15.6469323,
+  "naslov": "Jur\u010di\u010deva ulica 3",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "3163",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3163",
+  "lokal": "BIG PANDA - DOSTAVA",
+  "city": "MARIBOR",
+  "sort-group": 66,
+  "delovniCasTeden": [
+   660,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   1260
+  ],
+  "delovniCasNedelja": [
+   660,
+   1260
+  ]
+ },
+ {
+  "lat": 46.559173,
+  "lon": 15.6469323,
+  "naslov": "Jur\u010di\u010deva ulica 3",
+  "cena": 8.6,
+  "doplacilo": 5.1,
+  "posid": "3162",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3162",
+  "lokal": "BIG PANDA RESTAVRACIJA",
+  "city": "MARIBOR",
+  "sort-group": 66,
+  "delovniCasTeden": [
+   660,
+   1320
+  ],
+  "delovniCasSobota": [
+   660,
+   1320
+  ],
+  "delovniCasNedelja": [
+   660,
+   1320
+  ]
+ },
+ {
+  "lat": 46.0740168,
+  "lon": 14.516449,
+  "naslov": "Kardeljeva plo\u0161\u010dad 17",
+  "cena": 4.5,
+  "doplacilo": 1.0,
+  "posid": "2926",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2926",
+  "lokal": "BIGDIL COFE",
+  "city": "LJUBLJANA",
+  "sort-group": 66,
+  "delovniCasTeden": [
+   480,
+   1140
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0397001,
+  "lon": 14.5130312,
+  "naslov": "I\u017eanska cesta 10",
+  "cena": 7.5,
+  "doplacilo": 4.0,
+  "posid": "2102",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2102",
+  "lokal": "BIOTEHNI\u0160KI IZOBRA\u017dEVALNI CENTER LJUBLJANA",
+  "city": "LJUBLJANA",
+  "sort-group": 66,
+  "delovniCasTeden": [
+   630,
+   870
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0369256,
+  "lon": 14.4928696,
+  "naslov": "Cesta v Mestni log 47",
+  "cena": 7.5,
+  "doplacilo": 4.0,
+  "posid": "2103",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2103",
+  "lokal": "BIOTEHNI\u0160KI IZOBRA\u017dEVALNI CENTER LJUBLJANA",
+  "city": "LJUBLJANA",
+  "sort-group": 66,
+  "delovniCasTeden": [
+   630,
+   870
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.560381,
+  "lon": 15.64577,
+  "naslov": "Slovenska ulica 20",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2862",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2862",
+  "lokal": "BISTRO ARTY+",
+  "city": "MARIBOR",
+  "sort-group": 66,
+  "delovniCasTeden": [
+   660,
+   930
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0519281,
+  "lon": 14.5050696,
+  "naslov": "\u010copova 12",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2725",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2725",
+  "lokal": "BISTRO \u010cOPOVA",
+  "city": "LJUBLJANA",
+  "sort-group": 66,
+  "delovniCasTeden": [
+   660,
+   1200
+  ],
+  "delovniCasSobota": [
+   660,
+   1200
+  ],
+  "delovniCasNedelja": [
+   660,
+   1200
+  ]
+ },
+ {
+  "lat": 46.0755832,
+  "lon": 14.513194,
+  "naslov": "Kardeljeva plo\u0161\u010dad 5",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "3221",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3221",
+  "lokal": "BISTRO SLOVELY",
+  "city": "LJUBLJANA",
+  "sort-group": 66,
+  "delovniCasTeden": [
+   600,
+   960
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 45.545517,
+  "lon": 13.733073,
+  "naslov": "Vojkovo nabre\u017eje 12",
+  "cena": 7.5,
+  "doplacilo": 4.0,
+  "posid": "2821",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2821",
+  "lokal": "BISTRO VILLA DOMUS",
+  "city": "KOPER/CAPODISTRIA",
+  "sort-group": 66,
+  "delovniCasTeden": [
+   660,
+   1020
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.2338608,
+  "lon": 15.6377234,
+  "naslov": "Kidri\u010deva ulica 23",
+  "cena": 8.5,
+  "doplacilo": 5.0,
+  "posid": "1645",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1645",
+  "lokal": "BOHOR",
+  "city": "ROGA\u0160KA SLATINA",
+  "sort-group": 66,
+  "delovniCasTeden": [
+   600,
+   1320
+  ],
+  "delovniCasSobota": [
+   600,
+   1320
+  ],
+  "delovniCasNedelja": [
+   600,
+   1320
+  ]
+ },
+ {
+  "lat": 46.4428775,
+  "lon": 14.0369591,
+  "naslov": "Cesta mar\u0161ala Tita 112",
+  "cena": 5.5,
+  "doplacilo": 2.0,
+  "posid": "3109",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3109",
+  "lokal": "BOLNI\u0160NI\u010cNA RESTAVRACIJA SPLO\u0160NE BOLNI\u0160NICE JESENICE",
+  "city": "JESENICE",
+  "sort-group": 66,
+  "delovniCasTeden": [
+   570,
+   840
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.047428,
+  "lon": 14.4998576,
+  "naslov": "Rimska cesta 13",
+  "cena": 4.5,
+  "doplacilo": 1.0,
+  "posid": "3173",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3173",
+  "lokal": "BUREK OLIMPIJA RIMSKA",
+  "city": "LJUBLJANA",
+  "sort-group": 66,
+  "delovniCasTeden": [
+   540,
+   1260
+  ],
+  "delovniCasSobota": [
+   540,
+   780
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0525226,
+  "lon": 14.5117865,
+  "naslov": "Trubarjeva 47",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "3067",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3067",
+  "lokal": "BURGER TIME",
+  "city": "LJUBLJANA",
+  "sort-group": 66,
+  "delovniCasTeden": [
+   600,
+   1320
+  ],
+  "delovniCasSobota": [
+   600,
+   1320
+  ],
+  "delovniCasNedelja": [
+   600,
+   1320
+  ]
+ },
+ {
+  "lat": 46.5484518,
+  "lon": 15.6430608,
+  "naslov": "Ulica Pari\u0161ke komune 37",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "1161",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1161",
+  "lokal": "CANTANTE CAFE TABOR",
+  "city": "MARIBOR",
+  "sort-group": 67,
+  "delovniCasTeden": [
+   600,
+   1200
+  ],
+  "delovniCasSobota": [
+   720,
+   1200
+  ],
+  "delovniCasNedelja": [
+   720,
+   1200
+  ]
+ },
+ {
+  "lat": 46.5484518,
+  "lon": 15.6430608,
+  "naslov": "Ulica Pari\u0161ke komune 37",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "1673",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1673",
+  "lokal": "CANTANTE CAFE TABOR - DOSTAVA",
+  "city": "MARIBOR",
+  "sort-group": 67,
+  "delovniCasTeden": [
+   540,
+   1200
+  ],
+  "delovniCasSobota": [
+   720,
+   1200
+  ],
+  "delovniCasNedelja": [
+   720,
+   1200
+  ]
+ },
+ {
+  "lat": 46.0574226,
+  "lon": 14.509497,
+  "naslov": "Trg osvobodilne fronte 13",
+  "cena": 7.8,
+  "doplacilo": 4.3,
+  "posid": "3176",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3176",
+  "lokal": "CANTINA QUE PASA",
+  "city": "LJUBLJANA",
+  "sort-group": 67,
+  "delovniCasTeden": [
+   480,
+   1260
+  ],
+  "delovniCasSobota": [
+   480,
+   1260
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5537814,
+  "lon": 15.6532921,
+  "naslov": "Pobre\u0161ka cesta 18",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "3171",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3171",
+  "lokal": "CHUTYS EUROPARK MARIBOR",
+  "city": "MARIBOR",
+  "sort-group": 67,
+  "delovniCasTeden": [
+   660,
+   1260
+  ],
+  "delovniCasSobota": [
+   720,
+   1260
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0519643,
+  "lon": 14.5044694,
+  "naslov": "\u010copova 7",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "3175",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3175",
+  "lokal": "CIAO CIAO",
+  "city": "LJUBLJANA",
+  "sort-group": 67,
+  "delovniCasTeden": [
+   660,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   1260
+  ],
+  "delovniCasNedelja": [
+   660,
+   1260
+  ]
+ },
+ {
+  "lat": 45.5458243,
+  "lon": 13.7403981,
+  "naslov": "Ankaranska 7",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2243",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2243",
+  "lokal": "CITYBURGER",
+  "city": "KOPER/CAPODISTRIA",
+  "sort-group": 67,
+  "delovniCasTeden": [
+   660,
+   1260
+  ],
+  "delovniCasSobota": [
+   720,
+   1200
+  ],
+  "delovniCasNedelja": [
+   720,
+   1200
+  ]
+ },
+ {
+  "lat": 45.5472243,
+  "lon": 13.7354463,
+  "naslov": "Gram\u0161ijev trg 8",
+  "cena": 8.6,
+  "doplacilo": 5.1,
+  "posid": "3114",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3114",
+  "lokal": "\u010cEVABD\u017dINICA SARAJEVO84",
+  "city": "KOPER/CAPODISTRIA",
+  "sort-group": 268,
+  "delovniCasTeden": [
+   600,
+   1260
+  ],
+  "delovniCasSobota": [
+   720,
+   1260
+  ],
+  "delovniCasNedelja": [
+   720,
+   1260
+  ]
+ },
+ {
+  "lat": 45.5468662,
+  "lon": 13.7266374,
+  "naslov": "Toma\u017ei\u010dev trg 1",
+  "cena": 8.6,
+  "doplacilo": 5.1,
+  "posid": "3234",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3234",
+  "lokal": "\u010cEVABD\u017dINICA SARAJEVO84 (TOMA\u017dI\u010cEV TRG)",
+  "city": "KOPER/CAPODISTRIA",
+  "sort-group": 268,
+  "delovniCasTeden": [
+   600,
+   1260
+  ],
+  "delovniCasSobota": [
+   720,
+   1260
+  ],
+  "delovniCasNedelja": [
+   720,
+   1260
+  ]
+ },
+ {
+  "lat": 46.0514392,
+  "lon": 14.5000498,
+  "naslov": "\u0160ubi\u010deva 1a",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "1485",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1485",
+  "lokal": "DA BU DA, AZIJSKA RESTAVRACIJA",
+  "city": "LJUBLJANA",
+  "sort-group": 68,
+  "delovniCasTeden": [
+   660,
+   1260
+  ],
+  "delovniCasSobota": [
+   720,
+   1260
+  ],
+  "delovniCasNedelja": [
+   720,
+   1020
+  ]
+ },
+ {
+  "lat": 46.0503594,
+  "lon": 14.5332075,
+  "naslov": "Gortanova 21",
+  "cena": 6.0,
+  "doplacilo": 2.5,
+  "posid": "2523",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2523",
+  "lokal": "DIFOOD-EAT GOOD",
+  "city": "LJUBLJANA",
+  "sort-group": 68,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   480,
+   1320
+  ]
+ },
+ {
+  "lat": 46.5487086,
+  "lon": 15.6488376,
+  "naslov": "Titova cesta 24a",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "1090",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1090",
+  "lokal": "DIJA\u0160KI DOM LIZIKE JAN\u010cAR",
+  "city": "MARIBOR",
+  "sort-group": 68,
+  "delovniCasTeden": [
+   660,
+   1020
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0492373,
+  "lon": 14.5233316,
+  "naslov": "Poto\u010dnikova ulica 3",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "1502",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1502",
+  "lokal": "DIJA\u0160KI DOM POLJANE",
+  "city": "LJUBLJANA",
+  "sort-group": 68,
+  "delovniCasTeden": [
+   660,
+   960
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 45.5169575,
+  "lon": 13.5835564,
+  "naslov": "Son\u010dna pot 20",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "3145",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3145",
+  "lokal": "DIJA\u0160KI DOM RESTAVRACIJA POMOR\u0160\u010cAK",
+  "city": "PORTORO\u017d/PORTOROSE",
+  "sort-group": 68,
+  "delovniCasTeden": [
+   660,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0534162,
+  "lon": 14.5137731,
+  "naslov": "Kotnikova 4",
+  "cena": 7.6,
+  "doplacilo": 4.1,
+  "posid": "2111",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2111",
+  "lokal": "DIJA\u0160KI DOM TABOR",
+  "city": "LJUBLJANA",
+  "sort-group": 68,
+  "delovniCasTeden": [
+   720,
+   960
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.03939685,
+  "lon": 14.48836816,
+  "naslov": "Gerbi\u010deva 53",
+  "cena": 6.0,
+  "doplacilo": 2.5,
+  "posid": "1314",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1314",
+  "lokal": "DIJA\u0160KI DOM VI\u010c",
+  "city": "LJUBLJANA",
+  "sort-group": 68,
+  "delovniCasTeden": [
+   660,
+   1020
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 45.5484311,
+  "lon": 13.732145,
+  "naslov": "Cankarjeva 5",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "1013",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1013",
+  "lokal": "DIJA\u0160KI IN \u0160TUDENTSKI DOM KOPER",
+  "city": "KOPER/CAPODISTRIA",
+  "sort-group": 68,
+  "delovniCasTeden": [
+   720,
+   960
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 45.7935957,
+  "lon": 15.1601492,
+  "naslov": "\u0160egova ulica 115",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "1501",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1501",
+  "lokal": "DIJA\u0160KI IN \u0160TUDENTSKI DOM NOVO MESTO",
+  "city": "NOVO MESTO",
+  "sort-group": 68,
+  "delovniCasTeden": [
+   570,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0828895,
+  "lon": 14.4879422,
+  "naslov": "Stegne 11a",
+  "cena": 8.2,
+  "doplacilo": 4.7,
+  "posid": "2552",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2552",
+  "lokal": "DOBRA HI\u0160A",
+  "city": "LJUBLJANA",
+  "sort-group": 68,
+  "delovniCasTeden": [
+   570,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0218387,
+  "lon": 14.5359136,
+  "naslov": "Jur\u010dkova cesta 223",
+  "cena": 8.2,
+  "doplacilo": 4.7,
+  "posid": "2298",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2298",
+  "lokal": "DOBRA HI\u0160A RUDNIK",
+  "city": "LJUBLJANA",
+  "sort-group": 68,
+  "delovniCasTeden": [
+   600,
+   1080
+  ],
+  "delovniCasSobota": [
+   600,
+   1080
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0748031,
+  "lon": 14.510908,
+  "naslov": "Dunajska cesta 113",
+  "cena": 5.61,
+  "doplacilo": 2.11,
+  "posid": "3191",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3191",
+  "lokal": "DOMA\u010cA PEKARNA",
+  "city": "LJUBLJANA",
+  "sort-group": 68,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   480,
+   1320
+  ]
+ },
+ {
+  "lat": 46.5595476,
+  "lon": 15.6338033,
+  "naslov": "Koro\u0161ka cesta 80",
+  "cena": 7.5,
+  "doplacilo": 4.0,
+  "posid": "3232",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3232",
+  "lokal": "EAT SMART BURGERS",
+  "city": "MARIBOR",
+  "sort-group": 69,
+  "delovniCasTeden": [
+   600,
+   1260
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0567756,
+  "lon": 14.5083706,
+  "naslov": "Miklo\u0161i\u010deva 34",
+  "cena": 8.49,
+  "doplacilo": 4.99,
+  "posid": "2589",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2589",
+  "lokal": "FARI'S ",
+  "city": "LJUBLJANA",
+  "sort-group": 70,
+  "delovniCasTeden": [
+   600,
+   1320
+  ],
+  "delovniCasSobota": [
+   720,
+   1320
+  ],
+  "delovniCasNedelja": [
+   720,
+   1320
+  ]
+ },
+ {
+  "lat": 45.546133,
+  "lon": 13.7260016,
+  "naslov": "Pristani\u0161ka ulica 2",
+  "cena": 6.0,
+  "doplacilo": 2.5,
+  "posid": "3158",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3158",
+  "lokal": "FAST FOOD MAGIC",
+  "city": "KOPER/CAPODISTRIA",
+  "sort-group": 70,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   480,
+   1320
+  ]
+ },
+ {
+  "lat": 46.0556131,
+  "lon": 14.5048633,
+  "naslov": "Slovenska cesta 51",
+  "cena": 6.2,
+  "doplacilo": 2.7,
+  "posid": "3165",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3165",
+  "lokal": "FAST FOOD SLAST",
+  "city": "LJUBLJANA",
+  "sort-group": 70,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   480,
+   1320
+  ]
+ },
+ {
+  "lat": 46.052123,
+  "lon": 14.509031,
+  "naslov": "Petkov\u0161kovo nabre\u017eje 25",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2849",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2849",
+  "lokal": "FORUM",
+  "city": "LJUBLJANA",
+  "sort-group": 70,
+  "delovniCasTeden": [
+   690,
+   1200
+  ],
+  "delovniCasSobota": [
+   690,
+   1200
+  ],
+  "delovniCasNedelja": [
+   690,
+   1200
+  ]
+ },
+ {
+  "lat": 46.1679455,
+  "lon": 14.3066673,
+  "naslov": "\u0160olska cesta 2",
+  "cena": 8.2,
+  "doplacilo": 4.7,
+  "posid": "2591",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2591",
+  "lokal": "GARA\u010c - RESTAVRACIJA \"M\"",
+  "city": "\u0160KOFJA LOKA",
+  "sort-group": 71,
+  "delovniCasTeden": [
+   420,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   600,
+   1320
+  ]
+ },
+ {
+  "lat": 46.0218387,
+  "lon": 14.5359136,
+  "naslov": "Jur\u010dkova cesta 223",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "3223",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3223",
+  "lokal": "GIG BAR & BURGER",
+  "city": "LJUBLJANA",
+  "sort-group": 71,
+  "delovniCasTeden": [
+   660,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   1260
+  ],
+  "delovniCasNedelja": [
+   900,
+   1260
+  ]
+ },
+ {
+  "lat": 46.0542409,
+  "lon": 14.5192941,
+  "naslov": "Njego\u0161eva 6 K",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2161",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2161",
+  "lokal": "GOSTILNA IN PICERIJA PAVON",
+  "city": "LJUBLJANA",
+  "sort-group": 71,
+  "delovniCasTeden": [
+   600,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.3424536,
+  "lon": 15.4302266,
+  "naslov": "Oplotni\u0161ka cesta 5",
+  "cena": 5.5,
+  "doplacilo": 2.0,
+  "posid": "2543",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2543",
+  "lokal": "GOSTILNA POD \u0160KALCAMI",
+  "city": "SLOVENSKE KONJICE",
+  "sort-group": 71,
+  "delovniCasTeden": [
+   480,
+   720
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.3424536,
+  "lon": 15.4302266,
+  "naslov": "Oplotni\u0161ka cesta 5",
+  "cena": 5.5,
+  "doplacilo": 2.0,
+  "posid": "2346",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2346",
+  "lokal": "GOSTILNA POD \u0160KALCAMI - DOSTAVA",
+  "city": "SLOVENSKE KONJICE",
+  "sort-group": 71,
+  "delovniCasTeden": [
+   480,
+   720
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.245784,
+  "lon": 15.2672382,
+  "naslov": "Travni\u0161ka ulica 4",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "3123",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3123",
+  "lokal": "GOSTILNA STARA BRAJDA",
+  "city": "CELJE",
+  "sort-group": 71,
+  "delovniCasTeden": [
+   570,
+   960
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 45.9080827,
+  "lon": 15.0074327,
+  "naslov": "Goliev trg 8",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "1375",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1375",
+  "lokal": "GOSTILNA \u0160ELIGO",
+  "city": "TREBNJE",
+  "sort-group": 71,
+  "delovniCasTeden": [
+   540,
+   840
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0541021,
+  "lon": 14.5239482,
+  "naslov": "\u0160lajmerjeva 1a",
+  "cena": 8.9,
+  "doplacilo": 5.4,
+  "posid": "3126",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3126",
+  "lokal": "GOSTILNA \u0160TORKLJA",
+  "city": "LJUBLJANA",
+  "sort-group": 71,
+  "delovniCasTeden": [
+   660,
+   1020
+  ],
+  "delovniCasSobota": [
+   720,
+   1020
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5579632,
+  "lon": 15.6409783,
+  "naslov": "Vodnikov trg 4",
+  "cena": 6.8,
+  "doplacilo": 3.3,
+  "posid": "1123",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1123",
+  "lokal": "GOSTILNA ZLATI LEV",
+  "city": "MARIBOR",
+  "sort-group": 71,
+  "delovniCasTeden": [
+   540,
+   1260
+  ],
+  "delovniCasSobota": [
+   600,
+   1260
+  ],
+  "delovniCasNedelja": [
+   600,
+   1260
+  ]
+ },
+ {
+  "lat": 46.5579632,
+  "lon": 15.6409783,
+  "naslov": "Vodnikov trg 4",
+  "cena": 7.3,
+  "doplacilo": 3.8,
+  "posid": "1124",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1124",
+  "lokal": "GOSTILNA ZLATI LEV - DOSTAVA",
+  "city": "MARIBOR",
+  "sort-group": 71,
+  "delovniCasTeden": [
+   600,
+   1200
+  ],
+  "delovniCasSobota": [
+   600,
+   1200
+  ],
+  "delovniCasNedelja": [
+   600,
+   1200
+  ]
+ },
+ {
+  "lat": 46.0564799,
+  "lon": 14.5099706,
+  "naslov": "Kolodvorska ulica 14",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2185",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2185",
+  "lokal": "GOSTILNICA IN PIVNICA KRATOCHWILL",
+  "city": "LJUBLJANA",
+  "sort-group": 71,
+  "delovniCasTeden": [
+   600,
+   1260
+  ],
+  "delovniCasSobota": [
+   600,
+   1260
+  ],
+  "delovniCasNedelja": [
+   600,
+   1260
+  ]
+ },
+ {
+  "lat": 46.0471605,
+  "lon": 14.4955915,
+  "naslov": "Trg mladinskih delovnih brigad 8",
+  "cena": 7.6,
+  "doplacilo": 4.1,
+  "posid": "3060",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3060",
+  "lokal": "GOSTILNICA IN PIVNICA VI\u010c",
+  "city": "LJUBLJANA",
+  "sort-group": 71,
+  "delovniCasTeden": [
+   600,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0202672,
+  "lon": 14.5366758,
+  "naslov": "Jur\u010dkova 225",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "1834",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1834",
+  "lokal": "GOSTILNICA IN PIZZERIJA KRATOCHWILL",
+  "city": "LJUBLJANA",
+  "sort-group": 71,
+  "delovniCasTeden": [
+   600,
+   1260
+  ],
+  "delovniCasSobota": [
+   600,
+   1260
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0693078,
+  "lon": 14.5484774,
+  "naslov": "\u0160martinska 152",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "1835",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1835",
+  "lokal": "GOSTILNICA IN PIZZERIJA KRATOCHWILL",
+  "city": "LJUBLJANA",
+  "sort-group": 71,
+  "delovniCasTeden": [
+   660,
+   1200
+  ],
+  "delovniCasSobota": [
+   720,
+   1200
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0475489,
+  "lon": 14.4995445,
+  "naslov": "Rimska cesta 25a",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2995",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2995",
+  "lokal": "GOSTILNICA META IN BAZILIKA",
+  "city": "LJUBLJANA",
+  "sort-group": 71,
+  "delovniCasTeden": [
+   540,
+   1020
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5072539,
+  "lon": 15.0764026,
+  "naslov": "Podgorska cesta 2",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "1213",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1213",
+  "lokal": "GOSTILNICA NAMANOVA",
+  "city": "SLOVENJ GRADEC",
+  "sort-group": 71,
+  "delovniCasTeden": [
+   600,
+   840
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5117581,
+  "lon": 15.0800667,
+  "naslov": "Francetova 7",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "3210",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3210",
+  "lokal": "GOSTILNICA TADEJ",
+  "city": "SLOVENJ GRADEC",
+  "sort-group": 71,
+  "delovniCasTeden": [
+   600,
+   840
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.1329388,
+  "lon": 14.9987576,
+  "naslov": "Pre\u0161ernova cesta 1",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "1849",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1849",
+  "lokal": "GOSTI\u0160\u010cE KUM",
+  "city": "ZAGORJE OB SAVI",
+  "sort-group": 71,
+  "delovniCasTeden": [
+   540,
+   1260
+  ],
+  "delovniCasSobota": [
+   540,
+   1260
+  ],
+  "delovniCasNedelja": [
+   540,
+   900
+  ]
+ },
+ {
+  "lat": 45.804611,
+  "lon": 15.1616284,
+  "naslov": "\u017dupan\u010di\u010devo sprehajali\u0161\u010de 2",
+  "cena": 8.5,
+  "doplacilo": 5.0,
+  "posid": "2403",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2403",
+  "lokal": "GOSTI\u0160\u010cE LOKA",
+  "city": "NOVO MESTO",
+  "sort-group": 71,
+  "delovniCasTeden": [
+   600,
+   840
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 45.8039607,
+  "lon": 15.1694229,
+  "naslov": "Glavni trg 30",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "1847",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1847",
+  "lokal": "GOSTI\u0160\u010cE NA TRGU - HI\u0160A KULINARIKE",
+  "city": "NOVO MESTO",
+  "sort-group": 71,
+  "delovniCasTeden": [
+   540,
+   900
+  ],
+  "delovniCasSobota": [
+   660,
+   900
+  ],
+  "delovniCasNedelja": [
+   660,
+   900
+  ]
+ },
+ {
+  "lat": 46.5265465,
+  "lon": 15.6692877,
+  "naslov": "Zagreb\u0161ka cesta 92",
+  "cena": 7.2,
+  "doplacilo": 3.7,
+  "posid": "1188",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1188",
+  "lokal": "GURMANSKI HRAM",
+  "city": "MARIBOR",
+  "sort-group": 71,
+  "delovniCasTeden": [
+   600,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5265465,
+  "lon": 15.6692877,
+  "naslov": "Zagreb\u0161ka cesta 92",
+  "cena": 7.2,
+  "doplacilo": 3.7,
+  "posid": "1189",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1189",
+  "lokal": "GURMANSKI HRAM - DOSTAVA",
+  "city": "MARIBOR",
+  "sort-group": 71,
+  "delovniCasTeden": [
+   600,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0477612,
+  "lon": 14.5417869,
+  "naslov": "Litijska 28",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "3168",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3168",
+  "lokal": "HALO HONG KONG - DOSTAVA",
+  "city": "LJUBLJANA",
+  "sort-group": 72,
+  "delovniCasTeden": [
+   600,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   1260
+  ],
+  "delovniCasNedelja": [
+   660,
+   1260
+  ]
+ },
+ {
+  "lat": 46.0613483,
+  "lon": 14.527299,
+  "naslov": "Sredi\u0161ka ulica 4",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2355",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2355",
+  "lokal": "HALO KATRA - DOSTAVA",
+  "city": "LJUBLJANA",
+  "sort-group": 72,
+  "delovniCasTeden": [
+   600,
+   1200
+  ],
+  "delovniCasSobota": [
+   660,
+   1200
+  ],
+  "delovniCasNedelja": [
+   660,
+   1200
+  ]
+ },
+ {
+  "lat": 46.0579279,
+  "lon": 14.5285728,
+  "naslov": "Pod je\u017eami 14",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2778",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2778",
+  "lokal": "HALO PINKI",
+  "city": "LJUBLJANA",
+  "sort-group": 72,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   480,
+   1320
+  ]
+ },
+ {
+  "lat": 46.0579436,
+  "lon": 14.5284637,
+  "naslov": "Pod je\u017eami 14",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "1514",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1514",
+  "lokal": "HALO PINKI - DOSTAVA",
+  "city": "LJUBLJANA",
+  "sort-group": 72,
+  "delovniCasTeden": [
+   1020,
+   1260
+  ],
+  "delovniCasSobota": [
+   1020,
+   1260
+  ],
+  "delovniCasNedelja": [
+   1020,
+   1260
+  ]
+ },
+ {
+  "lat": 46.0606245,
+  "lon": 14.5146389,
+  "naslov": "Hacquetova 5",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2519",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2519",
+  "lokal": "HALO SHAOLIN - DOSTAVA",
+  "city": "LJUBLJANA",
+  "sort-group": 72,
+  "delovniCasTeden": [
+   600,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   1260
+  ],
+  "delovniCasNedelja": [
+   660,
+   1260
+  ]
+ },
+ {
+  "lat": 46.0493959,
+  "lon": 14.5112233,
+  "naslov": "Streli\u0161ka ulica 10",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2668",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2668",
+  "lokal": "HI\u0160A POD GRADOM",
+  "city": "LJUBLJANA",
+  "sort-group": 72,
+  "delovniCasTeden": [
+   660,
+   1020
+  ],
+  "delovniCasSobota": [
+   720,
+   1020
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0518465,
+  "lon": 14.5052867,
+  "naslov": "\u010copova 4",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2430",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2430",
+  "lokal": "HIT WOK",
+  "city": "LJUBLJANA",
+  "sort-group": 72,
+  "delovniCasTeden": [
+   660,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   1260
+  ],
+  "delovniCasNedelja": [
+   660,
+   1260
+  ]
+ },
+ {
+  "lat": 45.7946897,
+  "lon": 15.1591167,
+  "naslov": "\u0160egova ulica 112",
+  "cena": 5.5,
+  "doplacilo": 2.0,
+  "posid": "2735",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2735",
+  "lokal": "HITRA HRANA MARTINA KRPANA",
+  "city": "NOVO MESTO",
+  "sort-group": 72,
+  "delovniCasTeden": [
+   540,
+   780
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0693078,
+  "lon": 14.5484774,
+  "naslov": "\u0160martinska cesta 152",
+  "cena": 8.6,
+  "doplacilo": 5.1,
+  "posid": "2358",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2358",
+  "lokal": "HOT HORSE - BTC",
+  "city": "LJUBLJANA",
+  "sort-group": 72,
+  "delovniCasTeden": [
+   540,
+   1320
+  ],
+  "delovniCasSobota": [
+   540,
+   1320
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0198816,
+  "lon": 14.5337258,
+  "naslov": "Jur\u010dkova cesta 222",
+  "cena": 8.6,
+  "doplacilo": 5.1,
+  "posid": "3196",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3196",
+  "lokal": "HOT HORSE - RUDNIK",
+  "city": "LJUBLJANA",
+  "sort-group": 72,
+  "delovniCasTeden": [
+   540,
+   1320
+  ],
+  "delovniCasSobota": [
+   540,
+   1320
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0599532,
+  "lon": 14.4952876,
+  "naslov": "Celov\u0161ka cesta 25",
+  "cena": 8.6,
+  "doplacilo": 5.1,
+  "posid": "2359",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2359",
+  "lokal": "HOT HORSE - TIVOLI",
+  "city": "LJUBLJANA",
+  "sort-group": 72,
+  "delovniCasTeden": [
+   540,
+   1320
+  ],
+  "delovniCasSobota": [
+   540,
+   1320
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.074054,
+  "lon": 14.516428,
+  "naslov": "Kardeljeva plo\u0161\u010dad 17",
+  "cena": 8.2,
+  "doplacilo": 4.7,
+  "posid": "2846",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2846",
+  "lokal": "HOTSPOT BAR&BISTRO",
+  "city": "LJUBLJANA",
+  "sort-group": 72,
+  "delovniCasTeden": [
+   600,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 45.9030395,
+  "lon": 15.5923304,
+  "naslov": "Cesta prvih borcev 7",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "3197",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3197",
+  "lokal": "HUDA .",
+  "city": "BRE\u017dICE",
+  "sort-group": 72,
+  "delovniCasTeden": [
+   660,
+   1140
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0526204,
+  "lon": 14.5026065,
+  "naslov": "Cankarjeva cesta 6",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "1386",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1386",
+  "lokal": "JOE PENA'S CANTINA Y BAR",
+  "city": "LJUBLJANA",
+  "sort-group": 74,
+  "delovniCasTeden": [
+   660,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   1260
+  ],
+  "delovniCasNedelja": [
+   720,
+   1260
+  ]
+ },
+ {
+  "lat": 46.0467202,
+  "lon": 14.5001974,
+  "naslov": "A\u0161ker\u010deva cesta 2",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "3238",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3238",
+  "lokal": "K16",
+  "city": "LJUBLJANA",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   600,
+   960
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.058714,
+  "lon": 14.501792,
+  "naslov": "Pivovarni\u0161ka ulica 6",
+  "cena": 7.5,
+  "doplacilo": 4.0,
+  "posid": "3062",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3062",
+  "lokal": "KAMPUS FOOD",
+  "city": "LJUBLJANA",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   660,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.074015,
+  "lon": 14.516453,
+  "naslov": "Kardeljeva plo\u0161\u010dad ",
+  "cena": 4.5,
+  "doplacilo": 1.0,
+  "posid": "2581",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2581",
+  "lokal": "KAPITAL",
+  "city": "LJUBLJANA",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   600,
+   960
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.505466,
+  "lon": 15.6225793,
+  "naslov": "Pivola 10",
+  "cena": 7.5,
+  "doplacilo": 4.0,
+  "posid": "3001",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3001",
+  "lokal": "KAVARNA IN KUHINJA FAKULTETA ZA KMETIJSTVO IN BIOSISTEMSKE VEDE",
+  "city": "HO\u010cE",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   630,
+   870
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5453657,
+  "lon": 15.643939,
+  "naslov": "Focheva ulica 41",
+  "cena": 8.8,
+  "doplacilo": 5.3,
+  "posid": "2775",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2775",
+  "lokal": "KITAJSKA PALA\u010cA - DOSTAVA",
+  "city": "MARIBOR",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   660,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   1260
+  ],
+  "delovniCasNedelja": [
+   660,
+   1260
+  ]
+ },
+ {
+  "lat": 46.036207,
+  "lon": 14.489519,
+  "naslov": "Cesta v mestni log 55",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "2841",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2841",
+  "lokal": "KITAJSKA RESTAVRACIJA \"LETE\u010cA ZVEZDA\"",
+  "city": "LJUBLJANA",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   600,
+   1320
+  ],
+  "delovniCasSobota": [
+   600,
+   1320
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.036207,
+  "lon": 14.489519,
+  "naslov": "Cesta v mestni log 55",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2842",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2842",
+  "lokal": "KITAJSKA RESTAVRACIJA \"LETE\u010cA ZVEZDA\" - DOSTAVA",
+  "city": "LJUBLJANA",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   600,
+   1260
+  ],
+  "delovniCasSobota": [
+   600,
+   1260
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5311257,
+  "lon": 15.6701161,
+  "naslov": "Ptujska cesta 131 ",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "2703",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2703",
+  "lokal": "KITAJSKA RESTAVRACIJA AZIJA",
+  "city": "MARIBOR",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   600,
+   1320
+  ],
+  "delovniCasSobota": [
+   660,
+   1320
+  ],
+  "delovniCasNedelja": [
+   660,
+   1320
+  ]
+ },
+ {
+  "lat": 46.2461166,
+  "lon": 14.3530853,
+  "naslov": "Gosposvetska ulica 1",
+  "cena": 8.5,
+  "doplacilo": 5.0,
+  "posid": "2644",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2644",
+  "lokal": "KITAJSKA RESTAVRACIJA AZIJA",
+  "city": "KRANJ",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   660,
+   1320
+  ],
+  "delovniCasSobota": [
+   660,
+   1320
+  ],
+  "delovniCasNedelja": [
+   660,
+   1320
+  ]
+ },
+ {
+  "lat": 46.0568955,
+  "lon": 14.5105853,
+  "naslov": "Kolodvorska ulica 20",
+  "cena": 8.9,
+  "doplacilo": 5.4,
+  "posid": "3193",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3193",
+  "lokal": "KITAJSKA RESTAVRACIJA BELI LABOD",
+  "city": "LJUBLJANA",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   660,
+   1320
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   720,
+   1320
+  ]
+ },
+ {
+  "lat": 45.5415072,
+  "lon": 13.7358793,
+  "naslov": "Ankaranska cesta 5B",
+  "cena": 7.6,
+  "doplacilo": 4.1,
+  "posid": "2264",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2264",
+  "lokal": "KITAJSKA RESTAVRACIJA CESARSKA HI\u0160A",
+  "city": "KOPER/CAPODISTRIA",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   660,
+   1320
+  ],
+  "delovniCasSobota": [
+   660,
+   1320
+  ],
+  "delovniCasNedelja": [
+   660,
+   1320
+  ]
+ },
+ {
+  "lat": 46.2391004,
+  "lon": 15.263821,
+  "naslov": "Kersnikova 31",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "2635",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2635",
+  "lokal": "KITAJSKA RESTAVRACIJA DVA ZMAJA",
+  "city": "CELJE",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   660,
+   1320
+  ],
+  "delovniCasSobota": [
+   660,
+   1320
+  ],
+  "delovniCasNedelja": [
+   660,
+   1320
+  ]
+ },
+ {
+  "lat": 46.07048,
+  "lon": 14.5507145,
+  "naslov": "Moskovska ulica 4",
+  "cena": 8.9,
+  "doplacilo": 5.4,
+  "posid": "2950",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2950",
+  "lokal": "KITAJSKA RESTAVRACIJA HAN",
+  "city": "LJUBLJANA",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   660,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   1260
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0782899,
+  "lon": 14.4836777,
+  "naslov": "Raku\u0161eva ulica 1",
+  "cena": 8.9,
+  "doplacilo": 5.4,
+  "posid": "3118",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3118",
+  "lokal": "KITAJSKA RESTAVRACIJA HAN - ALEJA",
+  "city": "LJUBLJANA",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   660,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   1260
+  ],
+  "delovniCasNedelja": [
+   660,
+   1260
+  ]
+ },
+ {
+  "lat": 45.9563076,
+  "lon": 13.6401351,
+  "naslov": "Bazovi\u0161ka ulica 6",
+  "cena": 8.2,
+  "doplacilo": 4.7,
+  "posid": "2933",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2933",
+  "lokal": "KITAJSKA RESTAVRACIJA MING ZHU",
+  "city": "NOVA GORICA",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   600,
+   1320
+  ],
+  "delovniCasSobota": [
+   600,
+   1320
+  ],
+  "delovniCasNedelja": [
+   600,
+   1320
+  ]
+ },
+ {
+  "lat": 45.8264393,
+  "lon": 15.1923673,
+  "naslov": "Ma\u010dkovec 6",
+  "cena": 7.5,
+  "doplacilo": 4.0,
+  "posid": "1415",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1415",
+  "lokal": "KITAJSKA RESTAVRACIJA NANKING",
+  "city": "NOVO MESTO",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   600,
+   1320
+  ],
+  "delovniCasSobota": [
+   660,
+   1320
+  ],
+  "delovniCasNedelja": [
+   660,
+   1320
+  ]
+ },
+ {
+  "lat": 46.0508628,
+  "lon": 14.5114751,
+  "naslov": "Kapitelska 5",
+  "cena": 8.2,
+  "doplacilo": 4.7,
+  "posid": "1346",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1346",
+  "lokal": "KITAJSKA RESTAVRACIJA NOVI \u0160ANGHAI",
+  "city": "LJUBLJANA",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   660,
+   1320
+  ],
+  "delovniCasSobota": [
+   720,
+   1320
+  ],
+  "delovniCasNedelja": [
+   720,
+   1320
+  ]
+ },
+ {
+  "lat": 46.4334456,
+  "lon": 14.0635691,
+  "naslov": "Delavska ulica 11",
+  "cena": 8.2,
+  "doplacilo": 4.7,
+  "posid": "2446",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2446",
+  "lokal": "KITAJSKA RESTAVRACIJA \u0160ANG HAI",
+  "city": "JESENICE",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   660,
+   1320
+  ],
+  "delovniCasSobota": [
+   660,
+   1320
+  ],
+  "delovniCasNedelja": [
+   660,
+   1320
+  ]
+ },
+ {
+  "lat": 46.052317,
+  "lon": 14.512212,
+  "naslov": "Trubarjeva cesta 50",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "2853",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2853",
+  "lokal": "KITAJSKA RESTAVRACIJA ZHONGHUA",
+  "city": "LJUBLJANA",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   660,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   900
+  ],
+  "delovniCasNedelja": [
+   660,
+   1260
+  ]
+ },
+ {
+  "lat": 46.5544914,
+  "lon": 15.6193002,
+  "naslov": "Ulica Pohorskega bataljona 14",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "2761",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2761",
+  "lokal": "KITAJSKA RESTAVRACIJA ZLATA SRNA",
+  "city": "MARIBOR",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   630,
+   1320
+  ],
+  "delovniCasSobota": [
+   630,
+   1320
+  ],
+  "delovniCasNedelja": [
+   630,
+   1320
+  ]
+ },
+ {
+  "lat": 46.5544914,
+  "lon": 15.6193002,
+  "naslov": "Ulica Pohorskega bataljona 14",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "2762",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2762",
+  "lokal": "KITAJSKA RESTAVRACIJA ZLATA SRNA - DOSTAVA",
+  "city": "MARIBOR",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   660,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   1260
+  ],
+  "delovniCasNedelja": [
+   660,
+   1260
+  ]
+ },
+ {
+  "lat": 46.5566926,
+  "lon": 15.6509716,
+  "naslov": "Lo\u0161ka ulica 10",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "1165",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1165",
+  "lokal": "KITAJSKA RESTAVRACIJA ZVEZDA",
+  "city": "MARIBOR",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   600,
+   1320
+  ],
+  "delovniCasSobota": [
+   660,
+   1320
+  ],
+  "delovniCasNedelja": [
+   660,
+   1200
+  ]
+ },
+ {
+  "lat": 45.5415072,
+  "lon": 13.7358793,
+  "naslov": "Ankaranska cesta 5B",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "2265",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2265",
+  "lokal": "KITAJSKA RESTAVRACJA CESARSKA HI\u0160A-DOSTAVA",
+  "city": "KOPER/CAPODISTRIA",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   660,
+   1320
+  ],
+  "delovniCasSobota": [
+   660,
+   1320
+  ],
+  "delovniCasNedelja": [
+   660,
+   1320
+  ]
+ },
+ {
+  "lat": 46.061737,
+  "lon": 14.5076175,
+  "naslov": "Dunajska cesta 29",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "1610",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1610",
+  "lokal": "KITAJSKI DVOR",
+  "city": "LJUBLJANA",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   660,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   1260
+  ],
+  "delovniCasNedelja": [
+   660,
+   1260
+  ]
+ },
+ {
+  "lat": 46.2315729,
+  "lon": 15.2762559,
+  "naslov": "Teharska cesta 35",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "1911",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1911",
+  "lokal": "KITAJSKI DVOR",
+  "city": "CELJE",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   600,
+   1320
+  ],
+  "delovniCasSobota": [
+   600,
+   1320
+  ],
+  "delovniCasNedelja": [
+   600,
+   1320
+  ]
+ },
+ {
+  "lat": 46.0621392,
+  "lon": 14.5074844,
+  "naslov": "Dunajska cesta 29",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2117",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2117",
+  "lokal": "KITAJSKI DVOR - DOSTAVA",
+  "city": "LJUBLJANA",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   660,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   1260
+  ],
+  "delovniCasNedelja": [
+   660,
+   1260
+  ]
+ },
+ {
+  "lat": 46.2314098,
+  "lon": 15.2761445,
+  "naslov": "Teharska cesta 35",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "1164",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1164",
+  "lokal": "KITAJSKI DVOR - DOSTAVA",
+  "city": "CELJE",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   600,
+   1320
+  ],
+  "delovniCasSobota": [
+   600,
+   1320
+  ],
+  "delovniCasNedelja": [
+   600,
+   1320
+  ]
+ },
+ {
+  "lat": 46.1382014,
+  "lon": 14.596938,
+  "naslov": "Slamnikarjeva 1",
+  "cena": 7.9,
+  "doplacilo": 4.4,
+  "posid": "1838",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1838",
+  "lokal": "KITAJSKO MESTO",
+  "city": "DOM\u017dALE",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   660,
+   1320
+  ],
+  "delovniCasSobota": [
+   660,
+   1320
+  ],
+  "delovniCasNedelja": [
+   660,
+   1320
+  ]
+ },
+ {
+  "lat": 46.1382014,
+  "lon": 14.596938,
+  "naslov": "Slamnikarjeva 1",
+  "cena": 8.9,
+  "doplacilo": 5.4,
+  "posid": "2772",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2772",
+  "lokal": "KITAJSKO MESTO - DOSTAVA",
+  "city": "DOM\u017dALE",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   660,
+   1320
+  ],
+  "delovniCasSobota": [
+   660,
+   1320
+  ],
+  "delovniCasNedelja": [
+   660,
+   1320
+  ]
+ },
+ {
+  "lat": 46.0816138,
+  "lon": 14.4923584,
+  "naslov": "Litostrojska cesta 57",
+  "cena": 6.3,
+  "doplacilo": 2.8,
+  "posid": "1422",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1422",
+  "lokal": "KLOP\u010cI\u010c",
+  "city": "LJUBLJANA",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   480,
+   840
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.2428879,
+  "lon": 14.3559806,
+  "naslov": "Slovenski trg 7",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "3140",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3140",
+  "lokal": "KLUBAR GASTROPUB",
+  "city": "KRANJ",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   600,
+   1140
+  ],
+  "delovniCasSobota": [
+   900,
+   1140
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0469188,
+  "lon": 14.5009328,
+  "naslov": "Slovenska cesta 1",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "3063",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3063",
+  "lokal": "KOA BISTRO & BAR",
+  "city": "LJUBLJANA",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   660,
+   1200
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5585966,
+  "lon": 15.6449785,
+  "naslov": "Po\u0161tna ulica 12",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "3121",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3121",
+  "lokal": "KOZLOVNA PO\u0160TNA",
+  "city": "MARIBOR",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   660,
+   960
+  ],
+  "delovniCasSobota": [
+   660,
+   960
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.6746467,
+  "lon": 16.1750238,
+  "naslov": "Nem\u010davci 1d",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "1110",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1110",
+  "lokal": "KRATOCHWILL",
+  "city": "MURSKA SOBOTA",
+  "sort-group": 75,
+  "delovniCasTeden": [
+   570,
+   1200
+  ],
+  "delovniCasSobota": [
+   600,
+   1200
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.3485144,
+  "lon": 14.1696392,
+  "naslov": "Ulica Staneta \u017dagarja 2b",
+  "cena": 7.2,
+  "doplacilo": 3.7,
+  "posid": "2601",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2601",
+  "lokal": "LA CANTINA",
+  "city": "RADOVLJICA",
+  "sort-group": 76,
+  "delovniCasTeden": [
+   600,
+   1200
+  ],
+  "delovniCasSobota": [
+   780,
+   1020
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 45.547547,
+  "lon": 13.7297693,
+  "naslov": "\u010cevljarska 9 ",
+  "cena": 8.4,
+  "doplacilo": 4.9,
+  "posid": "2203",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2203",
+  "lokal": "LABIRINT",
+  "city": "KOPER/CAPODISTRIA",
+  "sort-group": 76,
+  "delovniCasTeden": [
+   660,
+   960
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   660,
+   960
+  ]
+ },
+ {
+  "lat": 46.0479552,
+  "lon": 14.4962925,
+  "naslov": "Trg mladinskih delovnih brigad 12",
+  "cena": 5.5,
+  "doplacilo": 2.0,
+  "posid": "3198",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3198",
+  "lokal": "LEONARD",
+  "city": "LJUBLJANA",
+  "sort-group": 76,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   480,
+   1320
+  ]
+ },
+ {
+  "lat": 46.0655751,
+  "lon": 14.5089374,
+  "naslov": "Dunajska ceeta 57",
+  "cena": 7.4,
+  "doplacilo": 3.9,
+  "posid": "3235",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3235",
+  "lokal": "LE\u0160KOVA\u010cKI DVOR",
+  "city": "LJUBLJANA",
+  "sort-group": 76,
+  "delovniCasTeden": [
+   600,
+   1260
+  ],
+  "delovniCasSobota": [
+   600,
+   1260
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.070312,
+  "lon": 14.541963,
+  "naslov": "Kvedrova cesta 5a",
+  "cena": 7.5,
+  "doplacilo": 4.0,
+  "posid": "2844",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2844",
+  "lokal": "LETE\u010cA ZVEZDA",
+  "city": "LJUBLJANA",
+  "sort-group": 76,
+  "delovniCasTeden": [
+   660,
+   1320
+  ],
+  "delovniCasSobota": [
+   720,
+   1320
+  ],
+  "delovniCasNedelja": [
+   720,
+   1320
+  ]
+ },
+ {
+  "lat": 46.047896,
+  "lon": 14.4987744,
+  "naslov": "Bor\u0161tnikov trg 3a",
+  "cena": 3.5,
+  "doplacilo": 0.0,
+  "posid": "2726",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2726",
+  "lokal": "LIPCA - INDEKS",
+  "city": "LJUBLJANA",
+  "sort-group": 76,
+  "delovniCasTeden": [
+   540,
+   780
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5607379,
+  "lon": 15.6423883,
+  "naslov": "Stossmayerjeva ulica 26",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "2640",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2640",
+  "lokal": "LONDON STREET FOOD",
+  "city": "MARIBOR",
+  "sort-group": 76,
+  "delovniCasTeden": [
+   660,
+   1020
+  ],
+  "delovniCasSobota": [
+   660,
+   960
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.561508,
+  "lon": 15.63406,
+  "naslov": "Gosposvetska cesta 43a",
+  "cena": 7.8,
+  "doplacilo": 4.3,
+  "posid": "2331",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2331",
+  "lokal": "LOVING HUT ",
+  "city": "MARIBOR",
+  "sort-group": 76,
+  "delovniCasTeden": [
+   660,
+   1140
+  ],
+  "delovniCasSobota": [
+   720,
+   1080
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.049579,
+  "lon": 14.5168208,
+  "naslov": "Poljanska 22",
+  "cena": 5.5,
+  "doplacilo": 2.0,
+  "posid": "3227",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3227",
+  "lokal": "MATJA\u017dEV BISTRO",
+  "city": "LJUBLJANA",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   480,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5587501,
+  "lon": 15.6505413,
+  "naslov": "Ulica Vita Kraigherja 5",
+  "cena": 4.5,
+  "doplacilo": 1.0,
+  "posid": "3205",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3205",
+  "lokal": "MC PANDA",
+  "city": "MARIBOR",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   540,
+   1320
+  ],
+  "delovniCasSobota": [
+   540,
+   1320
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.6694982,
+  "lon": 16.1775262,
+  "naslov": "Nem\u010davci 1d",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "3122",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3122",
+  "lokal": "MCDONALD S RESTAVRACIJA  - MURSKA SOBOTA",
+  "city": "MURSKA SOBOTA",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   540,
+   1320
+  ]
+ },
+ {
+  "lat": 46.54175582,
+  "lon": 15.64776005,
+  "naslov": "Tr\u017ea\u0161ka 6",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "1182",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1182",
+  "lokal": "MCDONALD\u00b4S RESTAVRACIJA - SWATY",
+  "city": "MARIBOR",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   480,
+   1320
+  ]
+ },
+ {
+  "lat": 46.55381546,
+  "lon": 15.6514902,
+  "naslov": "Pobre\u0161ka 18",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "1185",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1185",
+  "lokal": "MCDONALD\u00b4S RESTAVRACIJA EUROPARK",
+  "city": "MARIBOR",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   540,
+   1260
+  ],
+  "delovniCasSobota": [
+   480,
+   1260
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5349073,
+  "lon": 15.6622092,
+  "naslov": "Ptujska 106",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "1184",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1184",
+  "lokal": "MCDONALD\u00b4S RESTAVRACIJA PTUJSKA",
+  "city": "MARIBOR",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   480,
+   1320
+  ]
+ },
+ {
+  "lat": 46.35996095,
+  "lon": 15.11980472,
+  "naslov": "Kidri\u010deva 2b",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "1179",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1179",
+  "lokal": "MCDONALD\u00b4S RESTAVRACIJA VELENJE",
+  "city": "VELENJE",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   540,
+   1320
+  ]
+ },
+ {
+  "lat": 46.0782899,
+  "lon": 14.4836777,
+  "naslov": "Raku\u0161eva ulica 1",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "3107",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3107",
+  "lokal": "MCDONALD'S RESTAVRACIJA - ALEJA",
+  "city": "LJUBLJANA",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   540,
+   1260
+  ],
+  "delovniCasSobota": [
+   540,
+   1260
+  ],
+  "delovniCasNedelja": [
+   660,
+   1260
+  ]
+ },
+ {
+  "lat": 46.0527153,
+  "lon": 14.5028959,
+  "naslov": "Cankarjeva cesta 4",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "3189",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3189",
+  "lokal": "MCDONALD'S RESTAVRACIJA - CANKARJEVA",
+  "city": "LJUBLJANA",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   480,
+   1320
+  ]
+ },
+ {
+  "lat": 46.247996,
+  "lon": 15.280446,
+  "naslov": "Mariborska cesta 164",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "2868",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2868",
+  "lokal": "MCDONALD'S RESTAVRACIJA - CELJE DRIVE",
+  "city": "CELJE",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   480,
+   1320
+  ]
+ },
+ {
+  "lat": 46.0749608,
+  "lon": 14.4846712,
+  "naslov": "Celov\u0161ka cesta 170",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "1341",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1341",
+  "lokal": "MCDONALD'S RESTAVRACIJA - CELOV\u0160KA",
+  "city": "LJUBLJANA",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   480,
+   1260
+  ],
+  "delovniCasSobota": [
+   480,
+   1260
+  ],
+  "delovniCasNedelja": [
+   540,
+   1260
+  ]
+ },
+ {
+  "lat": 46.1468404,
+  "lon": 14.5975108,
+  "naslov": "Breznikova 15",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "1342",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1342",
+  "lokal": "MCDONALD'S RESTAVRACIJA - DOM\u017dALE",
+  "city": "DOM\u017dALE",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   540,
+   1260
+  ],
+  "delovniCasSobota": [
+   540,
+   1260
+  ],
+  "delovniCasNedelja": [
+   540,
+   1260
+  ]
+ },
+ {
+  "lat": 46.232304,
+  "lon": 14.369412,
+  "naslov": "Cesta Bo\u0161tjana Hladnika 7",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "2866",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2866",
+  "lokal": "MCDONALD'S RESTAVRACIJA - KRANJ DRIVE",
+  "city": "KRANJ",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   480,
+   1320
+  ]
+ },
+ {
+  "lat": 45.81480455,
+  "lon": 15.15417151,
+  "naslov": "Ljubljanska 24",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "1381",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1381",
+  "lokal": "MCDONALD'S RESTAVRACIJA - NOVO MESTO",
+  "city": "NOVO MESTO",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   480,
+   1320
+  ]
+ },
+ {
+  "lat": 46.0175171,
+  "lon": 14.53007184,
+  "naslov": "Premrlova ulica 12",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "1536",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1536",
+  "lokal": "MCDONALD'S RESTAVRACIJA - RUDNIK",
+  "city": "LJUBLJANA",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   480,
+   1320
+  ]
+ },
+ {
+  "lat": 46.0218387,
+  "lon": 14.5359136,
+  "naslov": "Jur\u010dkova cesta 223",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "3188",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3188",
+  "lokal": "MCDONALD'S RESTAVRACIJA - SUPERNOVA RUDNIK",
+  "city": "LJUBLJANA",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   540,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0694793,
+  "lon": 14.5408094,
+  "naslov": "\u0160martinska 147",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "3164",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3164",
+  "lokal": "MCDONALD'S RESTAVRACIJA - \u0160MARTINKA DRIVE",
+  "city": "LJUBLJANA",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   540,
+   1320
+  ]
+ },
+ {
+  "lat": 46.05797458,
+  "lon": 14.51181272,
+  "naslov": "Trg osvobodilne fronte 6",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "1379",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1379",
+  "lokal": "MCDONALD'S RESTAVRACIJA - \u017dELEZNI\u0160KA",
+  "city": "LJUBLJANA",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   480,
+   1320
+  ]
+ },
+ {
+  "lat": 46.06947767,
+  "lon": 14.54738666,
+  "naslov": "\u0160martinska 154",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "1378",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1378",
+  "lokal": "MCDONALD'S RESTAVRACIJA - \u017dITO",
+  "city": "LJUBLJANA",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   480,
+   1320
+  ]
+ },
+ {
+  "lat": 45.54149179,
+  "lon": 13.73655012,
+  "naslov": "Ankaranska 4",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "2253",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2253",
+  "lokal": "MCDONALD'S RESTAVRACIJA KOPER",
+  "city": "KOPER/CAPODISTRIA",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   480,
+   1320
+  ]
+ },
+ {
+  "lat": 45.954703,
+  "lon": 13.653513,
+  "naslov": "Vojkova cesta 111",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "2815",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2815",
+  "lokal": "MCDONALD'S RESTAVRACIJA NOVA GORICA",
+  "city": "NOVA GORICA",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   480,
+   1320
+  ]
+ },
+ {
+  "lat": 46.5513718,
+  "lon": 15.6409209,
+  "naslov": "Jezdarska ulica 8b",
+  "cena": 6.2,
+  "doplacilo": 2.7,
+  "posid": "2648",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2648",
+  "lokal": "ME GUSTA",
+  "city": "MARIBOR",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   480,
+   1020
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5603608,
+  "lon": 15.6553755,
+  "naslov": "Mlinska ulica 2",
+  "cena": 7.9,
+  "doplacilo": 4.4,
+  "posid": "3138",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3138",
+  "lokal": "MEATING PUB & RESTAVRACIJA",
+  "city": "MARIBOR",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   600,
+   960
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5603608,
+  "lon": 15.6553755,
+  "naslov": "Mlinska ulica 2",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "3230",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3230",
+  "lokal": "MEATING PUB & RESTAVRACIJA - DOSTAVA",
+  "city": "MARIBOR",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   600,
+   960
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0702369,
+  "lon": 14.5490389,
+  "naslov": "Moskovska ulica 4",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "1407",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1407",
+  "lokal": "MEHI\u0160KA RESTAVRACIJA IMPERIO MEXICANO",
+  "city": "LJUBLJANA",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   600,
+   1200
+  ],
+  "delovniCasSobota": [
+   600,
+   1200
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0512363,
+  "lon": 14.4699693,
+  "naslov": "Ve\u010dna pot 111",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "2023",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2023",
+  "lokal": "MENZA BF",
+  "city": "LJUBLJANA",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   630,
+   870
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0448994,
+  "lon": 14.4892307,
+  "naslov": "Tr\u017ea\u0161ka cesta 25",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "2521",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2521",
+  "lokal": "MENZA FE",
+  "city": "LJUBLJANA",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   630,
+   870
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0516682,
+  "lon": 14.5107486,
+  "naslov": "Poljanski nasip 2",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "1474",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1474",
+  "lokal": "MENZA PF",
+  "city": "LJUBLJANA",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   630,
+   870
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.241091,
+  "lon": 14.356279,
+  "naslov": "Maistrov trg 13",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "1214",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1214",
+  "lokal": "MLE\u010cNA RESTAVRACIJA",
+  "city": "KRANJ",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   540,
+   1080
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.241091,
+  "lon": 14.356279,
+  "naslov": "Maistrov trg 13",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "2542",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2542",
+  "lokal": "MLE\u010cNA RESTAVRACIJA - DOSTAVA",
+  "city": "KRANJ",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   570,
+   960
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5576636,
+  "lon": 15.643214,
+  "naslov": "Koro\u0161ka cesta 9",
+  "cena": 6.0,
+  "doplacilo": 2.5,
+  "posid": "2360",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2360",
+  "lokal": "MM PANDA",
+  "city": "MARIBOR",
+  "sort-group": 77,
+  "delovniCasTeden": [
+   540,
+   1320
+  ],
+  "delovniCasSobota": [
+   900,
+   1320
+  ],
+  "delovniCasNedelja": [
+   900,
+   1320
+  ]
+ },
+ {
+  "lat": 46.0522872,
+  "lon": 14.502706,
+  "naslov": "Tom\u0161i\u010deva ulica 2",
+  "cena": 7.8,
+  "doplacilo": 4.3,
+  "posid": "3195",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3195",
+  "lokal": "NAMA TU\u0160 GOURMET & DELIKATESA",
+  "city": "LJUBLJANA",
+  "sort-group": 78,
+  "delovniCasTeden": [
+   540,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.052474,
+  "lon": 14.509783,
+  "naslov": "Trubarjeva ulica 31",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "2828",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2828",
+  "lokal": "NAMASTE INDIAN EXPRESS",
+  "city": "LJUBLJANA",
+  "sort-group": 78,
+  "delovniCasTeden": [
+   660,
+   1200
+  ],
+  "delovniCasSobota": [
+   660,
+   1200
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.2519474,
+  "lon": 14.3572697,
+  "naslov": "\u0160orlijeva 12",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "3167",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3167",
+  "lokal": "NJAMY - DOSTAVA",
+  "city": "KRANJ",
+  "sort-group": 78,
+  "delovniCasTeden": [
+   540,
+   1320
+  ],
+  "delovniCasSobota": [
+   720,
+   1320
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0510563,
+  "lon": 14.5065665,
+  "naslov": "Adami\u010d-Lundrovo nabre\u017eje 1",
+  "cena": 8.8,
+  "doplacilo": 5.3,
+  "posid": "3229",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3229",
+  "lokal": "NORMA 23",
+  "city": "LJUBLJANA",
+  "sort-group": 78,
+  "delovniCasTeden": [
+   720,
+   960
+  ],
+  "delovniCasSobota": [
+   840,
+   1080
+  ],
+  "delovniCasNedelja": [
+   720,
+   960
+  ]
+ },
+ {
+  "lat": 46.0646461,
+  "lon": 14.5103219,
+  "naslov": "Linhartova 11",
+  "cena": 7.6,
+  "doplacilo": 4.1,
+  "posid": "2732",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2732",
+  "lokal": "OKREP\u010cEVALNICA - DINER KINO GLEDALI\u0160\u010cE BE\u017dIGRAD",
+  "city": "LJUBLJANA",
+  "sort-group": 79,
+  "delovniCasTeden": [
+   780,
+   1260
+  ],
+  "delovniCasSobota": [
+   900,
+   1260
+  ],
+  "delovniCasNedelja": [
+   900,
+   1260
+  ]
+ },
+ {
+  "lat": 46.0745055,
+  "lon": 14.5113788,
+  "naslov": "Dunajska cesta 111",
+  "cena": 6.4,
+  "doplacilo": 2.9,
+  "posid": "1683",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1683",
+  "lokal": "OKREP\u010cEVALNICA - PIZZERIJA MAKS",
+  "city": "LJUBLJANA",
+  "sort-group": 79,
+  "delovniCasTeden": [
+   540,
+   1200
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0533642,
+  "lon": 14.5052036,
+  "naslov": "Ajdov\u0161\u010dina 4",
+  "cena": 7.5,
+  "doplacilo": 4.0,
+  "posid": "2944",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2944",
+  "lokal": "OKREP\u010cEVALNICA AJDA",
+  "city": "LJUBLJANA",
+  "sort-group": 79,
+  "delovniCasTeden": [
+   570,
+   1200
+  ],
+  "delovniCasSobota": [
+   660,
+   1140
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.073666,
+  "lon": 14.5162984,
+  "naslov": "Kardeljeva plo\u0161\u010dad 5",
+  "cena": 5.0,
+  "doplacilo": 1.5,
+  "posid": "1615",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1615",
+  "lokal": "OKREP\u010cEVALNICA BADOVINAC",
+  "city": "LJUBLJANA",
+  "sort-group": 79,
+  "delovniCasTeden": [
+   540,
+   960
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5594876,
+  "lon": 15.6392718,
+  "naslov": "Smetanova ulica 17",
+  "cena": 3.5,
+  "doplacilo": 0.0,
+  "posid": "2347",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2347",
+  "lokal": "OKREP\u010cEVALNICA FERI",
+  "city": "MARIBOR",
+  "sort-group": 79,
+  "delovniCasTeden": [
+   480,
+   720
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5630401,
+  "lon": 15.6269831,
+  "naslov": "Gosposvetska cesta 83",
+  "cena": 3.5,
+  "doplacilo": 0.0,
+  "posid": "2650",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2650",
+  "lokal": "OKREP\u010cEVALNICA GOSPOSVETSKA",
+  "city": "MARIBOR",
+  "sort-group": 79,
+  "delovniCasTeden": [
+   480,
+   720
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0480819,
+  "lon": 14.4993023,
+  "naslov": "Igri\u0161ka ulica 5",
+  "cena": 5.5,
+  "doplacilo": 2.0,
+  "posid": "3071",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3071",
+  "lokal": "OKREP\u010cEVALNICA HOLYFOOD",
+  "city": "LJUBLJANA",
+  "sort-group": 79,
+  "delovniCasTeden": [
+   660,
+   960
+  ],
+  "delovniCasSobota": [
+   660,
+   960
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5636048,
+  "lon": 15.6514339,
+  "naslov": "Pre\u0161ernova 17",
+  "cena": 6.9,
+  "doplacilo": 3.4,
+  "posid": "2652",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2652",
+  "lokal": "OKREP\u010cEVALNICA IZUM",
+  "city": "MARIBOR",
+  "sort-group": 79,
+  "delovniCasTeden": [
+   600,
+   870
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0514769,
+  "lon": 14.4802775,
+  "naslov": "Ve\u010dna pot 113",
+  "cena": 6.4,
+  "doplacilo": 2.9,
+  "posid": "3200",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3200",
+  "lokal": "OKREP\u010cEVALNICA MARJANCA",
+  "city": "LJUBLJANA",
+  "sort-group": 79,
+  "delovniCasTeden": [
+   600,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5036301,
+  "lon": 15.0857854,
+  "naslov": "Celjska cesta 48 b",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "1234",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1234",
+  "lokal": "OKREP\u010cEVALNICA MINUTKA",
+  "city": "SLOVENJ GRADEC",
+  "sort-group": 79,
+  "delovniCasTeden": [
+   540,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5576922,
+  "lon": 15.6436525,
+  "naslov": "Koro\u0161ka cesta 5",
+  "cena": 7.5,
+  "doplacilo": 4.0,
+  "posid": "1237",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1237",
+  "lokal": "OKREP\u010cEVALNICA PIVNICA ALF",
+  "city": "MARIBOR",
+  "sort-group": 79,
+  "delovniCasTeden": [
+   600,
+   1080
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5576922,
+  "lon": 15.6436525,
+  "naslov": "Koro\u0161ka cesta 5",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "1238",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1238",
+  "lokal": "OKREP\u010cEVALNICA PIVNICA ALF - DOSTAVA",
+  "city": "MARIBOR",
+  "sort-group": 79,
+  "delovniCasTeden": [
+   600,
+   1080
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.4151635,
+  "lon": 15.9137303,
+  "naslov": "Spuhlja 32",
+  "cena": 8.2,
+  "doplacilo": 4.7,
+  "posid": "2334",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2334",
+  "lokal": "OKREP\u010cEVALNICA VILLA MONDE",
+  "city": "PTUJ",
+  "sort-group": 79,
+  "delovniCasTeden": [
+   600,
+   1200
+  ],
+  "delovniCasSobota": [
+   600,
+   1200
+  ],
+  "delovniCasNedelja": [
+   720,
+   1140
+  ]
+ },
+ {
+  "lat": 46.0566129,
+  "lon": 14.5094147,
+  "naslov": "Kolodvorska 11",
+  "cena": 7.5,
+  "doplacilo": 4.0,
+  "posid": "3169",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3169",
+  "lokal": "ORIENT EXPRESS, SAMOPOSTRE\u017dNA RESTAVRACIJA",
+  "city": "LJUBLJANA",
+  "sort-group": 79,
+  "delovniCasTeden": [
+   600,
+   840
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.2419031,
+  "lon": 15.2774074,
+  "naslov": "Mariborska cesta 100",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "3035",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3035",
+  "lokal": "O\u0160TARIJA CITY CENTER CELJE",
+  "city": "CELJE",
+  "sort-group": 79,
+  "delovniCasTeden": [
+   540,
+   1260
+  ],
+  "delovniCasSobota": [
+   480,
+   1260
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5404054,
+  "lon": 15.6408778,
+  "naslov": "Ulica Eve Lov\u0161e 1",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2480",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2480",
+  "lokal": "O\u0160TARIJA PIZZERIA DA NOI",
+  "city": "MARIBOR",
+  "sort-group": 79,
+  "delovniCasTeden": [
+   660,
+   960
+  ],
+  "delovniCasSobota": [
+   660,
+   960
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5404054,
+  "lon": 15.6408778,
+  "naslov": "Ulica Eve Lov\u0161e 1",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2705",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2705",
+  "lokal": "O\u0160TARIJA PIZZERIA DA NOI - DOSTAVA",
+  "city": "MARIBOR",
+  "sort-group": 79,
+  "delovniCasTeden": [
+   660,
+   960
+  ],
+  "delovniCasSobota": [
+   660,
+   960
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0681081,
+  "lon": 14.5420462,
+  "naslov": "Moskovska ulica 4",
+  "cena": 8.8,
+  "doplacilo": 5.3,
+  "posid": "3115",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3115",
+  "lokal": "O\u0160TARIJA PRI OLJKI",
+  "city": "LJUBLJANA",
+  "sort-group": 79,
+  "delovniCasTeden": [
+   720,
+   1200
+  ],
+  "delovniCasSobota": [
+   960,
+   1200
+  ],
+  "delovniCasNedelja": [
+   960,
+   1200
+  ]
+ },
+ {
+  "lat": 45.8002137,
+  "lon": 15.174038,
+  "naslov": "Kandijska cesta 35",
+  "cena": 7.5,
+  "doplacilo": 4.0,
+  "posid": "1471",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1471",
+  "lokal": "O\u0160TARIJA RUDOLFSWERTH",
+  "city": "NOVO MESTO",
+  "sort-group": 79,
+  "delovniCasTeden": [
+   600,
+   900
+  ],
+  "delovniCasSobota": [
+   600,
+   900
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.557861,
+  "lon": 15.646434,
+  "naslov": "Gosposka ulica 6",
+  "cena": 8.4,
+  "doplacilo": 4.9,
+  "posid": "2863",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2863",
+  "lokal": "PAPAGAYO",
+  "city": "MARIBOR",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   660,
+   1290
+  ],
+  "delovniCasSobota": [
+   660,
+   1320
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.2327648,
+  "lon": 15.2565348,
+  "naslov": "Ljubljanska cesta 21",
+  "cena": 6.0,
+  "doplacilo": 2.5,
+  "posid": "2623",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2623",
+  "lokal": "PE DIJA\u0160KI DOM CELJE",
+  "city": "CELJE",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   720,
+   960
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0493297,
+  "lon": 14.4938602,
+  "naslov": "Toba\u010dna ulica 5",
+  "cena": 6.0,
+  "doplacilo": 2.5,
+  "posid": "1424",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1424",
+  "lokal": "PE MARJETICA",
+  "city": "LJUBLJANA",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   600,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0646461,
+  "lon": 14.5103219,
+  "naslov": "Linhartova cesta 11",
+  "cena": 5.61,
+  "doplacilo": 2.11,
+  "posid": "3192",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3192",
+  "lokal": "PEKARNA LAGUNA",
+  "city": "LJUBLJANA",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   480,
+   1320
+  ]
+ },
+ {
+  "lat": 46.0254066,
+  "lon": 14.5302777,
+  "naslov": "Jur\u010dkova cesta 223",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "1366",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1366",
+  "lokal": "PIAZZA DEL PAPA",
+  "city": "LJUBLJANA",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   600,
+   1260
+  ],
+  "delovniCasSobota": [
+   600,
+   1260
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.1419779,
+  "lon": 14.5938717,
+  "naslov": "Ljubljanska cesta 106a",
+  "cena": 7.2,
+  "doplacilo": 3.7,
+  "posid": "3211",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3211",
+  "lokal": "PICA SEDMICA",
+  "city": "DOM\u017dALE",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   600,
+   1200
+  ],
+  "delovniCasSobota": [
+   660,
+   1020
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0361903,
+  "lon": 14.4895219,
+  "naslov": "Cesta v Mestni log 55",
+  "cena": 8.5,
+  "doplacilo": 5.0,
+  "posid": "2248",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2248",
+  "lokal": "PICERIJA BARJAN",
+  "city": "LJUBLJANA",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   600,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 45.8225275,
+  "lon": 15.1842413,
+  "naslov": "Pod Tr\u0161ko goro 83",
+  "cena": 8.4,
+  "doplacilo": 4.9,
+  "posid": "2551",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2551",
+  "lokal": "PICERIJA ERA",
+  "city": "NOVO MESTO",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   540,
+   1260
+  ],
+  "delovniCasSobota": [
+   540,
+   1260
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5084742,
+  "lon": 15.0782194,
+  "naslov": "Glavni trg 43",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "3142",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3142",
+  "lokal": "PICERIJA IN PIVNICA KUFR",
+  "city": "SLOVENJ GRADEC",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   600,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   1260
+  ],
+  "delovniCasNedelja": [
+   660,
+   1260
+  ]
+ },
+ {
+  "lat": 46.5084742,
+  "lon": 15.0782194,
+  "naslov": "Glavni trg 43",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "3233",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3233",
+  "lokal": "PICERIJA IN PIVNICA KUFR - DOSTAVA",
+  "city": "SLOVENJ GRADEC",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   600,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   1260
+  ],
+  "delovniCasNedelja": [
+   660,
+   1260
+  ]
+ },
+ {
+  "lat": 46.0808062,
+  "lon": 14.4786087,
+  "naslov": "Celov\u0161ka cesta 249",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "1794",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1794",
+  "lokal": "PICESTAVRACIJA BOCCACCIO",
+  "city": "LJUBLJANA",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   600,
+   1200
+  ],
+  "delovniCasSobota": [
+   720,
+   1200
+  ],
+  "delovniCasNedelja": [
+   720,
+   1200
+  ]
+ },
+ {
+  "lat": 46.0604984,
+  "lon": 14.5068653,
+  "naslov": "Dunajska cesta 15",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "3218",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3218",
+  "lokal": "PIZZA MARIJA",
+  "city": "LJUBLJANA",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   1020,
+   1320
+  ],
+  "delovniCasSobota": [
+   1020,
+   1320
+  ],
+  "delovniCasNedelja": [
+   660,
+   1320
+  ]
+ },
+ {
+  "lat": 46.368334,
+  "lon": 14.1111195,
+  "naslov": "Ljubljanska cesta 5",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2308",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2308",
+  "lokal": "PIZZERIA BRIKSEN",
+  "city": "BLED",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   720,
+   1260
+  ],
+  "delovniCasSobota": [
+   720,
+   1260
+  ],
+  "delovniCasNedelja": [
+   720,
+   1260
+  ]
+ },
+ {
+  "lat": 45.8054245,
+  "lon": 15.1652975,
+  "naslov": "Rozmanova ulica 25",
+  "cena": 7.5,
+  "doplacilo": 4.0,
+  "posid": "2736",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2736",
+  "lokal": "PIZZERIA CHIANTI",
+  "city": "NOVO MESTO",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   540,
+   1260
+  ],
+  "delovniCasSobota": [
+   720,
+   1320
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.04792605,
+  "lon": 14.5021382,
+  "naslov": "Gregor\u010di\u010deva ulica 3",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "1441",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1441",
+  "lokal": "PIZZERIA FOCULUS",
+  "city": "LJUBLJANA",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   660,
+   1080
+  ],
+  "delovniCasSobota": [
+   660,
+   1080
+  ],
+  "delovniCasNedelja": [
+   660,
+   1080
+  ]
+ },
+ {
+  "lat": 45.9638619,
+  "lon": 15.4861918,
+  "naslov": "Dalmatinova ulica 2",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2284",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2284",
+  "lokal": "PIZZERIA FONTANA ",
+  "city": "KR\u0160KO",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   660,
+   1320
+  ],
+  "delovniCasNedelja": [
+   720,
+   1320
+  ]
+ },
+ {
+  "lat": 46.0782899,
+  "lon": 14.4836777,
+  "naslov": "Raku\u0161eva cesta 1",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "3174",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3174",
+  "lokal": "PIZZERIA IN O\u0160TARIJA CHIANTI",
+  "city": "LJUBLJANA",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   660,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   1260
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0559004,
+  "lon": 14.5041666,
+  "naslov": "Kersnikova ulica 6",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "3199",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3199",
+  "lokal": "PIZZERIA IN O\u0160TARIJA FUGAZI",
+  "city": "LJUBLJANA",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   900,
+   1260
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0476439,
+  "lon": 14.545337,
+  "naslov": "Litijska cesta 38",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "1292",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1292",
+  "lokal": "PIZZERIA IN \u0160PAGETARIJA OLIVA",
+  "city": "LJUBLJANA",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   660,
+   1320
+  ],
+  "delovniCasSobota": [
+   660,
+   1320
+  ],
+  "delovniCasNedelja": [
+   660,
+   1320
+  ]
+ },
+ {
+  "lat": 46.553751,
+  "lon": 15.651964,
+  "naslov": "Pobre\u0161ka cesta 18",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "1103",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1103",
+  "lokal": "PIZZERIA IN \u0160PAGETERIA AL CAPONE",
+  "city": "MARIBOR",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   660,
+   960
+  ],
+  "delovniCasSobota": [
+   660,
+   960
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 45.8043094,
+  "lon": 15.196019,
+  "naslov": "Podbev\u0161kova ulica 11",
+  "cena": 7.4,
+  "doplacilo": 3.9,
+  "posid": "1305",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1305",
+  "lokal": "PIZZERIA IN \u0160PAGETTERIA CUBUS",
+  "city": "NOVO MESTO",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   600,
+   1320
+  ],
+  "delovniCasSobota": [
+   600,
+   1320
+  ],
+  "delovniCasNedelja": [
+   720,
+   1320
+  ]
+ },
+ {
+  "lat": 46.0398978,
+  "lon": 14.4730179,
+  "naslov": "Tr\u017ea\u0161ka 79a",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "1423",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1423",
+  "lokal": "PIZZERIA LATERNA",
+  "city": "LJUBLJANA",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   600,
+   1320
+  ],
+  "delovniCasSobota": [
+   750,
+   1320
+  ],
+  "delovniCasNedelja": [
+   750,
+   1260
+  ]
+ },
+ {
+  "lat": 46.0527303,
+  "lon": 14.5045867,
+  "naslov": "Nazorjeva ulica 8",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2165",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2165",
+  "lokal": "PIZZERIA OSMICA",
+  "city": "LJUBLJANA",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   720,
+   1260
+  ],
+  "delovniCasSobota": [
+   720,
+   1260
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0500505,
+  "lon": 14.5004647,
+  "naslov": "Trg republike 2",
+  "cena": 8.8,
+  "doplacilo": 5.3,
+  "posid": "2375",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2375",
+  "lokal": "PIZZERIA PARMA",
+  "city": "LJUBLJANA",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   660,
+   1080
+  ],
+  "delovniCasSobota": [
+   660,
+   1080
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0544486,
+  "lon": 14.5072493,
+  "naslov": "Miklo\u0161i\u010deva cesta 22",
+  "cena": 3.5,
+  "doplacilo": 0.0,
+  "posid": "1335",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1335",
+  "lokal": "PIZZERIA \u0160ESTINKA",
+  "city": "LJUBLJANA",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   600,
+   1320
+  ],
+  "delovniCasSobota": [
+   720,
+   1320
+  ],
+  "delovniCasNedelja": [
+   720,
+   1320
+  ]
+ },
+ {
+  "lat": 46.5368605,
+  "lon": 15.6238561,
+  "naslov": "Bor\u0161tnikova ulica 33a",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "1160",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1160",
+  "lokal": "PIZZERIA VIVALDI",
+  "city": "MARIBOR",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   720,
+   960
+  ],
+  "delovniCasSobota": [
+   660,
+   900
+  ],
+  "delovniCasNedelja": [
+   660,
+   900
+  ]
+ },
+ {
+  "lat": 46.5368605,
+  "lon": 15.6238561,
+  "naslov": "Bor\u0161tnikova ulica 33a",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "1162",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1162",
+  "lokal": "PIZZERIA VIVALDI - DOSTAVA",
+  "city": "MARIBOR",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   720,
+   960
+  ],
+  "delovniCasSobota": [
+   660,
+   900
+  ],
+  "delovniCasNedelja": [
+   660,
+   900
+  ]
+ },
+ {
+  "lat": 46.13196,
+  "lon": 14.994229,
+  "naslov": "Pe\u010darjeva 1",
+  "cena": 8.6,
+  "doplacilo": 5.1,
+  "posid": "1861",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1861",
+  "lokal": "PIZZERIJA A\u0160I\u010c",
+  "city": "ZAGORJE OB SAVI",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   720,
+   1260
+  ],
+  "delovniCasSobota": [
+   720,
+   1320
+  ],
+  "delovniCasNedelja": [
+   720,
+   1260
+  ]
+ },
+ {
+  "lat": 46.13196,
+  "lon": 14.994229,
+  "naslov": "Pe\u010darjeva ulica 1",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2011",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2011",
+  "lokal": "PIZZERIJA A\u0160I\u010c - DOSTAVA",
+  "city": "ZAGORJE OB SAVI",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   720,
+   1260
+  ],
+  "delovniCasSobota": [
+   720,
+   1320
+  ],
+  "delovniCasNedelja": [
+   720,
+   1260
+  ]
+ },
+ {
+  "lat": 45.5475251,
+  "lon": 13.7294406,
+  "naslov": "\u010cevljarska 8",
+  "cena": 7.5,
+  "doplacilo": 4.0,
+  "posid": "1031",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1031",
+  "lokal": "PIZZERIJA ATRIJ",
+  "city": "KOPER/CAPODISTRIA",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   660,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   1260
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.1549843,
+  "lon": 15.0511805,
+  "naslov": "Obrtni\u0161ka cesta 1",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "1716",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1716",
+  "lokal": "PIZZERIJA DIMNIK",
+  "city": "TRBOVLJE",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   540,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   1260
+  ],
+  "delovniCasNedelja": [
+   1020,
+   1260
+  ]
+ },
+ {
+  "lat": 46.1549843,
+  "lon": 15.0511805,
+  "naslov": "Obrtni\u0161ka cesta 1",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "1717",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1717",
+  "lokal": "PIZZERIJA DIMNIK - DOSTAVA",
+  "city": "TRBOVLJE",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   540,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   1260
+  ],
+  "delovniCasNedelja": [
+   1020,
+   1260
+  ]
+ },
+ {
+  "lat": 46.0730812,
+  "lon": 14.4503731,
+  "naslov": "Ulica Marije Hvali\u010deve 6",
+  "cena": 8.4,
+  "doplacilo": 4.9,
+  "posid": "1711",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1711",
+  "lokal": "PIZZERIJA ETNA - ITALIJANSKA KUHINJA",
+  "city": "LJUBLJANA",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   600,
+   1260
+  ],
+  "delovniCasSobota": [
+   720,
+   1260
+  ],
+  "delovniCasNedelja": [
+   720,
+   1260
+  ]
+ },
+ {
+  "lat": 46.0366776,
+  "lon": 14.4895863,
+  "naslov": "Cesta v Mestni log 55",
+  "cena": 8.5,
+  "doplacilo": 5.0,
+  "posid": "1413",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1413",
+  "lokal": "PIZZERIJA IN OKREP\u010cEVALNICA KONDOR",
+  "city": "LJUBLJANA",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   600,
+   1260
+  ],
+  "delovniCasSobota": [
+   600,
+   1260
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0681081,
+  "lon": 14.5420462,
+  "naslov": "Moskovska ulica 4",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "3116",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3116",
+  "lokal": "PIZZERIJA IN \u0160PAGETERIJA ALCAPONE",
+  "city": "LJUBLJANA",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   660,
+   1200
+  ],
+  "delovniCasSobota": [
+   660,
+   1200
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0773752,
+  "lon": 14.5191468,
+  "naslov": "Vojkova 71",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "3216",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3216",
+  "lokal": "PIZZERIJA PIRAMIDA",
+  "city": "LJUBLJANA",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   540,
+   1260
+  ],
+  "delovniCasSobota": [
+   600,
+   1260
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0773752,
+  "lon": 14.5191468,
+  "naslov": "Vojkova 71",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "3217",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3217",
+  "lokal": "PIZZERIJA PIRAMIDA - DOSTAVA",
+  "city": "LJUBLJANA",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   540,
+   960
+  ],
+  "delovniCasSobota": [
+   600,
+   840
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.3621913,
+  "lon": 15.1258621,
+  "naslov": "\u0160alek 24 a",
+  "cena": 8.2,
+  "doplacilo": 4.7,
+  "posid": "1176",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1176",
+  "lokal": "PIZZERIJA VELUN",
+  "city": "VELENJE",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   660,
+   1320
+  ],
+  "delovniCasSobota": [
+   720,
+   1320
+  ],
+  "delovniCasNedelja": [
+   720,
+   1320
+  ]
+ },
+ {
+  "lat": 46.1493423,
+  "lon": 14.5898794,
+  "naslov": "Groblje 3",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "3187",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3187",
+  "lokal": "POKU\u0160INA",
+  "city": "DOM\u017dALE",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   600,
+   840
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.082788,
+  "lon": 14.5139668,
+  "naslov": "Dunajska 160",
+  "cena": 7.2,
+  "doplacilo": 3.7,
+  "posid": "2753",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2753",
+  "lokal": "PREHRANA PALA\u010cA SMELT",
+  "city": "LJUBLJANA",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   630,
+   870
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5588118,
+  "lon": 15.6464008,
+  "naslov": "Gosposka ulica 13",
+  "cena": 5.7,
+  "doplacilo": 2.2,
+  "posid": "3212",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3212",
+  "lokal": "PRI STAREM KOVA\u010cU, HI\u0160A KRUHA 3",
+  "city": "MARIBOR",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   540,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 45.5301056,
+  "lon": 13.6514169,
+  "naslov": "Pre\u0161ernova cesta 55",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2204",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2204",
+  "lokal": "PRIMAVERA IZOLA",
+  "city": "IZOLA/ISOLA",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   600,
+   1260
+  ],
+  "delovniCasSobota": [
+   720,
+   1260
+  ],
+  "delovniCasNedelja": [
+   720,
+   1260
+  ]
+ },
+ {
+  "lat": 45.5301056,
+  "lon": 13.6514169,
+  "naslov": "Pre\u0161ernova cesta 55 ",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2205",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2205",
+  "lokal": "PRIMAVERA IZOLA-DOSTAVA",
+  "city": "IZOLA/ISOLA",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   660,
+   1260
+  ],
+  "delovniCasSobota": [
+   720,
+   1260
+  ],
+  "delovniCasNedelja": [
+   720,
+   1260
+  ]
+ },
+ {
+  "lat": 46.553867,
+  "lon": 15.6245844,
+  "naslov": "Preradovi\u010deva ulica 33",
+  "cena": 5.19,
+  "doplacilo": 1.69,
+  "posid": "1265",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1265",
+  "lokal": "PROMETNA \u0160OLA MARIBOR",
+  "city": "MARIBOR",
+  "sort-group": 80,
+  "delovniCasTeden": [
+   540,
+   960
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5602924,
+  "lon": 15.646888,
+  "naslov": "Slovenska 9",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2325",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2325",
+  "lokal": "Q SLOVENSKA",
+  "city": "MARIBOR",
+  "sort-group": 81,
+  "delovniCasTeden": [
+   540,
+   1260
+  ],
+  "delovniCasSobota": [
+   600,
+   1260
+  ],
+  "delovniCasNedelja": [
+   600,
+   1260
+  ]
+ },
+ {
+  "lat": 46.5499577,
+  "lon": 15.6385033,
+  "naslov": "Gorkega ulica 45",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2651",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2651",
+  "lokal": "Q TABOR",
+  "city": "MARIBOR",
+  "sort-group": 81,
+  "delovniCasTeden": [
+   480,
+   1260
+  ],
+  "delovniCasSobota": [
+   480,
+   1260
+  ],
+  "delovniCasNedelja": [
+   480,
+   1260
+  ]
+ },
+ {
+  "lat": 46.0638551,
+  "lon": 14.4957973,
+  "naslov": "Verov\u0161kova ulica 55a",
+  "cena": 6.8,
+  "doplacilo": 3.3,
+  "posid": "2528",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2528",
+  "lokal": "RESTAVRACIJA 123 MEGA CENTER 2",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   840
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.074362,
+  "lon": 14.5108601,
+  "naslov": "Dunajska cesta 107",
+  "cena": 6.8,
+  "doplacilo": 3.3,
+  "posid": "2531",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2531",
+  "lokal": "RESTAVRACIJA 123 MERCATOR DUNAJSKA",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   840
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0527303,
+  "lon": 14.5045867,
+  "naslov": "Nazorjeva ulica 8",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2164",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2164",
+  "lokal": "RESTAVRACIJA ALLEGRIA",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   720,
+   1260
+  ],
+  "delovniCasSobota": [
+   720,
+   1260
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5591908,
+  "lon": 15.6473742,
+  "naslov": "Jur\u010di\u010deva ulica 7",
+  "cena": 8.49,
+  "doplacilo": 4.99,
+  "posid": "2501",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2501",
+  "lokal": "RESTAVRACIJA ANCORA",
+  "city": "MARIBOR",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   1260
+  ],
+  "delovniCasNedelja": [
+   960,
+   1260
+  ]
+ },
+ {
+  "lat": 46.0497279,
+  "lon": 14.4974415,
+  "naslov": "Pre\u0161ernova cesta 15",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "3222",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3222",
+  "lokal": "RESTAVRACIJA BARUS",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   660,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   1260
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0620352,
+  "lon": 14.5093682,
+  "naslov": "Dunajska cesta 22",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2527",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2527",
+  "lokal": "RESTAVRACIJA BREJK",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   660,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5594876,
+  "lon": 15.6392718,
+  "naslov": "Koro\u0161ka cesta 46",
+  "cena": 7.2,
+  "doplacilo": 3.7,
+  "posid": "2234",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2234",
+  "lokal": "RESTAVRACIJA EAT SMART ",
+  "city": "MARIBOR",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   540,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 45.5342855,
+  "lon": 13.72632,
+  "naslov": "Prisoje 7",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "3204",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3204",
+  "lokal": "RESTAVRACIJA ETNO EDEN",
+  "city": "KOPER/CAPODISTRIA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   720,
+   1260
+  ],
+  "delovniCasSobota": [
+   720,
+   1260
+  ],
+  "delovniCasNedelja": [
+   720,
+   1260
+  ]
+ },
+ {
+  "lat": 46.0520454,
+  "lon": 14.5083412,
+  "naslov": "Petkov\u0161kovo nabre\u017eje 19",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "1827",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1827",
+  "lokal": "RESTAVRACIJA FANY & MARY",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   1200
+  ],
+  "delovniCasSobota": [
+   720,
+   1200
+  ],
+  "delovniCasNedelja": [
+   720,
+   1200
+  ]
+ },
+ {
+  "lat": 46.0556131,
+  "lon": 14.5048633,
+  "naslov": "Slovenska cesta 51",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2097",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2097",
+  "lokal": "RESTAVRACIJA FRESCO",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   480,
+   1260
+  ],
+  "delovniCasSobota": [
+   480,
+   1260
+  ],
+  "delovniCasNedelja": [
+   480,
+   1260
+  ]
+ },
+ {
+  "lat": 46.0468575,
+  "lon": 14.4984281,
+  "naslov": "A\u0161ker\u010deva ulica 6",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "3134",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3134",
+  "lokal": "RESTAVRACIJA FS, FAKULTETA ZA STROJNI\u0160TVO",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   630,
+   870
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0477612,
+  "lon": 14.5417869,
+  "naslov": "Litijska 28",
+  "cena": 8.5,
+  "doplacilo": 5.0,
+  "posid": "3166",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3166",
+  "lokal": "RESTAVRACIJA HONG KONG",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   1260
+  ],
+  "delovniCasNedelja": [
+   660,
+   1260
+  ]
+ },
+ {
+  "lat": 46.544365,
+  "lon": 14.9627537,
+  "naslov": "Ga\u010dnikova pot 2",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "3036",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3036",
+  "lokal": "RESTAVRACIJA IN MALOPRODAJA HERMINE WECH - KORO\u0160KA PERUTNINA",
+  "city": "RAVNE NA KORO\u0160KEM",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   1080
+  ],
+  "delovniCasSobota": [
+   600,
+   840
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5075851,
+  "lon": 15.0768162,
+  "naslov": "Ozare",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "3038",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3038",
+  "lokal": "RESTAVRACIJA IN MALOPRODAJA HERMINE WECH - KORO\u0160KA PERUTNINA",
+  "city": "SLOVENJ GRADEC",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   1020
+  ],
+  "delovniCasSobota": [
+   600,
+   840
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.660916,
+  "lon": 16.164826,
+  "naslov": "Trg zmage 8",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "2343",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2343",
+  "lokal": "RESTAVRACIJA IN PIVNICA ZVEZDA",
+  "city": "MURSKA SOBOTA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   1200
+  ],
+  "delovniCasSobota": [
+   600,
+   1200
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.2417572,
+  "lon": 15.2761156,
+  "naslov": "Mariborska 100",
+  "cena": 7.9,
+  "doplacilo": 4.4,
+  "posid": "1195",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1195",
+  "lokal": "RESTAVRACIJA INTERSPAR CELJE",
+  "city": "CELJE",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   1080
+  ],
+  "delovniCasSobota": [
+   600,
+   1080
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0702369,
+  "lon": 14.5490389,
+  "naslov": "\u0160martinska 152g",
+  "cena": 7.9,
+  "doplacilo": 4.4,
+  "posid": "1369",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1369",
+  "lokal": "RESTAVRACIJA INTERSPAR CITYPARK",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   1080
+  ],
+  "delovniCasSobota": [
+   600,
+   1080
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 45.5432181,
+  "lon": 13.7410232,
+  "naslov": "Ankaranska cesta 3A",
+  "cena": 7.9,
+  "doplacilo": 4.4,
+  "posid": "1023",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1023",
+  "lokal": "RESTAVRACIJA INTERSPAR KOPER",
+  "city": "KOPER/CAPODISTRIA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   1080
+  ],
+  "delovniCasSobota": [
+   600,
+   1080
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.2317974,
+  "lon": 14.364596,
+  "naslov": "Cesta 1.maja 77",
+  "cena": 7.9,
+  "doplacilo": 4.4,
+  "posid": "1198",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1198",
+  "lokal": "RESTAVRACIJA INTERSPAR KRANJ",
+  "city": "KRANJ",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   1080
+  ],
+  "delovniCasSobota": [
+   600,
+   1080
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.554734,
+  "lon": 15.6534804,
+  "naslov": "Pobre\u0161ka 18",
+  "cena": 7.9,
+  "doplacilo": 4.4,
+  "posid": "1194",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1194",
+  "lokal": "RESTAVRACIJA INTERSPAR MARIBOR EUROPARK",
+  "city": "MARIBOR",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   1080
+  ],
+  "delovniCasSobota": [
+   600,
+   1080
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.546433,
+  "lon": 15.618417,
+  "naslov": "Cesta Proletarskih brigad 100",
+  "cena": 7.9,
+  "doplacilo": 4.4,
+  "posid": "1197",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1197",
+  "lokal": "RESTAVRACIJA INTERSPAR MARIBOR2 SUPERNOVA QLANDIA",
+  "city": "MARIBOR",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   1080
+  ],
+  "delovniCasSobota": [
+   600,
+   1080
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.6746467,
+  "lon": 16.1750238,
+  "naslov": "Nem\u010davci 1d",
+  "cena": 7.9,
+  "doplacilo": 4.4,
+  "posid": "1199",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1199",
+  "lokal": "RESTAVRACIJA INTERSPAR MURSKA SOBOTA",
+  "city": "MURSKA SOBOTA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   1020
+  ],
+  "delovniCasSobota": [
+   600,
+   1020
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 45.9555094,
+  "lon": 13.6572042,
+  "naslov": "Cesta 25. junija 1a",
+  "cena": 7.9,
+  "doplacilo": 4.4,
+  "posid": "1025",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1025",
+  "lokal": "RESTAVRACIJA INTERSPAR NOVA GORICA",
+  "city": "NOVA GORICA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   1080
+  ],
+  "delovniCasSobota": [
+   600,
+   1080
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0419879,
+  "lon": 14.4847758,
+  "naslov": "Jamova 105",
+  "cena": 7.9,
+  "doplacilo": 4.4,
+  "posid": "1370",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1370",
+  "lokal": "RESTAVRACIJA INTERSPAR VI\u010c",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   1080
+  ],
+  "delovniCasSobota": [
+   600,
+   1080
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5453657,
+  "lon": 15.643939,
+  "naslov": "Focheva ulica 41",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "2040",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2040",
+  "lokal": "RESTAVRACIJA KITAJSKA PALA\u010cA",
+  "city": "MARIBOR",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   660,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   1260
+  ],
+  "delovniCasNedelja": [
+   660,
+   1260
+  ]
+ },
+ {
+  "lat": 46.0500434,
+  "lon": 14.4988365,
+  "naslov": "Pre\u0161ernova cesta 10",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "1768",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1768",
+  "lokal": "RESTAVRACIJA KLUB CANKARJEVEGA DOMA",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   840
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.3633644,
+  "lon": 15.1037539,
+  "naslov": "Cesta talcev 37",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "1263",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1263",
+  "lokal": "RESTAVRACIJA KOLODVORSKA",
+  "city": "VELENJE",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   540,
+   1140
+  ],
+  "delovniCasSobota": [
+   540,
+   900
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.170667,
+  "lon": 14.342255,
+  "naslov": "Kidri\u010deva cesta 75",
+  "cena": 7.5,
+  "doplacilo": 4.0,
+  "posid": "3096",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3096",
+  "lokal": "RESTAVRACIJA KOMPLIMENT",
+  "city": "\u0160KOFJA LOKA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   540,
+   840
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0533642,
+  "lon": 14.5052036,
+  "naslov": "Ajdov\u0161\u010dina 4",
+  "cena": 8.2,
+  "doplacilo": 4.7,
+  "posid": "3068",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3068",
+  "lokal": "RESTAVRACIJA MANDALA - PODHOD AJDOV\u0160\u010cINA",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   660,
+   1080
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.56316907,
+  "lon": 15.62965699,
+  "naslov": "Turnerjeva ulica 17",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "2085",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2085",
+  "lokal": "RESTAVRACIJA MANGO",
+  "city": "MARIBOR",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   660,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   1200
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.2419031,
+  "lon": 15.2774074,
+  "naslov": "Mariborska cesta 100",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "2649",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2649",
+  "lokal": "RESTAVRACIJA MCDONALDS - CITYCENTER",
+  "city": "CELJE",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   540,
+   1260
+  ],
+  "delovniCasSobota": [
+   480,
+   1260
+  ],
+  "delovniCasNedelja": [
+   540,
+   1260
+  ]
+ },
+ {
+  "lat": 46.41889598,
+  "lon": 15.8771082,
+  "naslov": "Ormo\u0161ka cesta 3",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "2759",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2759",
+  "lokal": "RESTAVRACIJA MCDONALDS - PTUJ",
+  "city": "PTUJ",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   540,
+   1320
+  ]
+ },
+ {
+  "lat": 46.6579914,
+  "lon": 16.1638527,
+  "naslov": "Slom\u0161kova ulica 49",
+  "cena": 7.5,
+  "doplacilo": 4.0,
+  "posid": "3144",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3144",
+  "lokal": "RESTAVRACIJA MENSANA",
+  "city": "MURSKA SOBOTA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0428394,
+  "lon": 14.4876334,
+  "naslov": "Jamova cesta 39",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "3236",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3236",
+  "lokal": "RESTAVRACIJA MENZA IJS",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   630,
+   870
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0650084,
+  "lon": 14.5268284,
+  "naslov": "Dav\u010dna ulica 1",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "2721",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2721",
+  "lokal": "RESTAVRACIJA MODRI KVADRAT",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   540,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0816492,
+  "lon": 14.486736,
+  "naslov": "Stegne 7",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "1382",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1382",
+  "lokal": "RESTAVRACIJA MOZART",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   540,
+   930
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0740168,
+  "lon": 14.516449,
+  "naslov": "Kardeljeva plo\u0161\u010dad 17",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "3172",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3172",
+  "lokal": "RESTAVRACIJA MOZART P.E. EKONOMSKA FAKULTETA",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   540,
+   960
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5598616,
+  "lon": 15.6467848,
+  "naslov": "Gosposka ulica 30",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "3049",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3049",
+  "lokal": "RESTAVRACIJA MR.FALAFEL",
+  "city": "MARIBOR",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   660,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   960
+  ],
+  "delovniCasNedelja": [
+   660,
+   960
+  ]
+ },
+ {
+  "lat": 46.0754157,
+  "lon": 14.5179893,
+  "naslov": "Kardeljeva plo\u0161\u010dad 16",
+  "cena": 6.49,
+  "doplacilo": 2.99,
+  "posid": "3179",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3179",
+  "lokal": "RESTAVRACIJA OAZA PEF",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   630,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5636227,
+  "lon": 15.6240941,
+  "naslov": "Koro\u0161ka cesta 160",
+  "cena": 7.8,
+  "doplacilo": 4.3,
+  "posid": "2229",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2229",
+  "lokal": "RESTAVRACIJA PIANO",
+  "city": "MARIBOR",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0470781,
+  "lon": 14.5034063,
+  "naslov": "Trg francoske revolucije 2",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "1360",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1360",
+  "lokal": "RESTAVRACIJA PLE\u010cNIKOV HRAM",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   540,
+   1080
+  ],
+  "delovniCasSobota": [
+   600,
+   900
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0715896,
+  "lon": 14.5148274,
+  "naslov": "Dimi\u010deva ulica 13",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "2180",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2180",
+  "lokal": "RESTAVRACIJA PRESTIGE CATERING, GZS",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   840
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0398978,
+  "lon": 14.4730179,
+  "naslov": "Tr\u017ea\u0161ka 116",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "1321",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1321",
+  "lokal": "RESTAVRACIJA RDE\u010cE JABOLKO",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   720,
+   1320
+  ],
+  "delovniCasSobota": [
+   720,
+   1320
+  ],
+  "delovniCasNedelja": [
+   720,
+   1320
+  ]
+ },
+ {
+  "lat": 46.1674362,
+  "lon": 14.3105818,
+  "naslov": "Kidri\u010deva cesta 8c",
+  "cena": 8.4,
+  "doplacilo": 4.9,
+  "posid": "2252",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2252",
+  "lokal": "RESTAVRACIJA SARAJEVSKIH JEDI VALTER - \u0160KOFJA LOKA",
+  "city": "\u0160KOFJA LOKA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   1320
+  ],
+  "delovniCasSobota": [
+   720,
+   1320
+  ],
+  "delovniCasNedelja": [
+   720,
+   1320
+  ]
+ },
+ {
+  "lat": 46.441619,
+  "lon": 14.0390784,
+  "naslov": "Cesta Mar\u0161ala Tita 106",
+  "cena": 8.4,
+  "doplacilo": 4.9,
+  "posid": "2884",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2884",
+  "lokal": "RESTAVRACIJA SARAJEVSKIH JEDI VALTER JESENICE",
+  "city": "JESENICE",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   1320
+  ],
+  "delovniCasSobota": [
+   720,
+   1320
+  ],
+  "delovniCasNedelja": [
+   720,
+   1320
+  ]
+ },
+ {
+  "lat": 46.2333989,
+  "lon": 14.3620683,
+  "naslov": "Cesta 1.maja 1a",
+  "cena": 8.4,
+  "doplacilo": 4.9,
+  "posid": "2326",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2326",
+  "lokal": "RESTAVRACIJA SARAJEVSKIH JEDI VALTER KRANJ",
+  "city": "KRANJ",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   1320
+  ],
+  "delovniCasSobota": [
+   720,
+   1320
+  ],
+  "delovniCasNedelja": [
+   720,
+   1320
+  ]
+ },
+ {
+  "lat": 46.0562816,
+  "lon": 14.5192825,
+  "naslov": "\u0160martinska cesta 3",
+  "cena": 8.4,
+  "doplacilo": 4.9,
+  "posid": "2131",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2131",
+  "lokal": "RESTAVRACIJA SARAJEVSKIH JEDI VALTER LJUBLJANA",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   660,
+   1320
+  ],
+  "delovniCasSobota": [
+   720,
+   1320
+  ],
+  "delovniCasNedelja": [
+   720,
+   1320
+  ]
+ },
+ {
+  "lat": 46.0606245,
+  "lon": 14.5146389,
+  "naslov": "Hacquetova 5",
+  "cena": 8.5,
+  "doplacilo": 5.0,
+  "posid": "2520",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2520",
+  "lokal": "RESTAVRACIJA SHAOLIN",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   1260
+  ],
+  "delovniCasSobota": [
+   660,
+   1260
+  ],
+  "delovniCasNedelja": [
+   660,
+   1260
+  ]
+ },
+ {
+  "lat": 46.0537029,
+  "lon": 14.5049926,
+  "naslov": "Ajdov\u0161\u010dina 4",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "1367",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1367",
+  "lokal": "RESTAVRACIJA SKRITI KOT",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   630,
+   1080
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 45.8002373,
+  "lon": 15.1630024,
+  "naslov": "\u0160mihelska cesta 1",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "1298",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1298",
+  "lokal": "RESTAVRACIJA SPLO\u0160NE BOLNI\u0160NICE NOVO MESTO",
+  "city": "NOVO MESTO",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   540,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5646783,
+  "lon": 15.6235584,
+  "naslov": "Gosposvetska cesta 89",
+  "cena": 6.9,
+  "doplacilo": 3.4,
+  "posid": "3231",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3231",
+  "lokal": "RESTAVRACIJA \u0160TUDENTSKI DOM 16",
+  "city": "MARIBOR",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   660,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.052173,
+  "lon": 14.507154,
+  "naslov": "Mali trg 3a",
+  "cena": 8.5,
+  "doplacilo": 5.0,
+  "posid": "2854",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2854",
+  "lokal": "RESTAVRACIJA TARTUF \"CENTER\"",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   990
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 45.9575994,
+  "lon": 13.6489258,
+  "naslov": "Kidri\u010deva ulica 11",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "3156",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3156",
+  "lokal": "RESTAVRACIJA VRTNICA",
+  "city": "NOVA GORICA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   600,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.543881,
+  "lon": 15.638065,
+  "naslov": "Metelkova ulica 29",
+  "cena": 7.4,
+  "doplacilo": 3.9,
+  "posid": "2698",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2698",
+  "lokal": "RESTAVRACIJA ZLATA SRE\u010cA",
+  "city": "MARIBOR",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   660,
+   1260
+  ],
+  "delovniCasSobota": [
+   840,
+   1260
+  ],
+  "delovniCasNedelja": [
+   840,
+   1260
+  ]
+ },
+ {
+  "lat": 45.536316,
+  "lon": 13.733304,
+  "naslov": "Ulica 15.maja 12e",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "3157",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3157",
+  "lokal": "RIFUGIO FOOD/DRINK AND MORE",
+  "city": "KOPER/CAPODISTRIA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   780,
+   1260
+  ],
+  "delovniCasSobota": [
+   960,
+   1260
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0523157,
+  "lon": 14.5100928,
+  "naslov": "Resljeva cesta 1",
+  "cena": 7.8,
+  "doplacilo": 4.3,
+  "posid": "3220",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3220",
+  "lokal": "RIK\u0160A CURRY&WOK",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   660,
+   1200
+  ],
+  "delovniCasSobota": [
+   720,
+   1200
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0574435,
+  "lon": 14.5087523,
+  "naslov": "Trg OF 14",
+  "cena": 7.5,
+  "doplacilo": 4.0,
+  "posid": "2739",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2739",
+  "lokal": "ROZA SLON",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   840,
+   1320
+  ],
+  "delovniCasSobota": [
+   720,
+   1200
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.07502,
+  "lon": 14.51101,
+  "naslov": "Dunajska 115",
+  "cena": 7.5,
+  "doplacilo": 4.0,
+  "posid": "2859",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2859",
+  "lokal": "ROZA SLON BE\u017dIGRAD",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   840,
+   1320
+  ],
+  "delovniCasSobota": [
+   720,
+   1200
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0577638,
+  "lon": 14.5403399,
+  "naslov": "Kajuhova 32/R",
+  "cena": 7.5,
+  "doplacilo": 4.0,
+  "posid": "3225",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3225",
+  "lokal": "ROZA SLON BTC",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   660,
+   1020
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0399968,
+  "lon": 14.4724761,
+  "naslov": "Tr\u017ea\u0161ka cesta 116",
+  "cena": 7.5,
+  "doplacilo": 4.0,
+  "posid": "3224",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3224",
+  "lokal": "ROZA SLON VI\u010c",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   660,
+   1080
+  ],
+  "delovniCasSobota": [
+   720,
+   1080
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0480819,
+  "lon": 14.4993023,
+  "naslov": "Igri\u0161ka ulica 5",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "3072",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3072",
+  "lokal": "RUBY FOOD",
+  "city": "LJUBLJANA",
+  "sort-group": 82,
+  "delovniCasTeden": [
+   570,
+   1320
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0300713,
+  "lon": 14.5324491,
+  "naslov": "Dolenjska cesta 103",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2595",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2595",
+  "lokal": "SALAMON - DOSTAVA",
+  "city": "LJUBLJANA",
+  "sort-group": 83,
+  "delovniCasTeden": [
+   660,
+   1140
+  ],
+  "delovniCasSobota": [
+   660,
+   1140
+  ],
+  "delovniCasNedelja": [
+   660,
+   1140
+  ]
+ },
+ {
+  "lat": 46.2301367,
+  "lon": 15.265121,
+  "naslov": "Mariborska cesta 7",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "2781",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2781",
+  "lokal": "SAMOPOSTRE\u017dNA RESTAVRACIJA STOLPI\u010c",
+  "city": "CELJE",
+  "sort-group": 83,
+  "delovniCasTeden": [
+   540,
+   870
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 45.9084904,
+  "lon": 15.5935718,
+  "naslov": "\u010cernel\u010deva cesta 15",
+  "cena": 7.5,
+  "doplacilo": 4.0,
+  "posid": "3069",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3069",
+  "lokal": "SPLO\u0160NA BOLNI\u0160NICA BRE\u017dICE",
+  "city": "BRE\u017dICE",
+  "sort-group": 83,
+  "delovniCasTeden": [
+   600,
+   960
+  ],
+  "delovniCasSobota": [
+   600,
+   960
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 45.5444241,
+  "lon": 13.6870967,
+  "naslov": "Polje 40",
+  "cena": 6.0,
+  "doplacilo": 2.5,
+  "posid": "2641",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2641",
+  "lokal": "SPLO\u0160NA BOLNI\u0160NICA IZOLA",
+  "city": "IZOLA/ISOLA",
+  "sort-group": 83,
+  "delovniCasTeden": [
+   690,
+   960
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 45.5352719,
+  "lon": 13.6582594,
+  "naslov": "Prekomorskih brigad 7",
+  "cena": 7.8,
+  "doplacilo": 4.3,
+  "posid": "2263",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2263",
+  "lokal": "SREDNJA \u0160OLA IZOLA - SCUOLA MEDIA ISOLA",
+  "city": "IZOLA/ISOLA",
+  "sort-group": 83,
+  "delovniCasTeden": [
+   690,
+   930
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 45.9620105,
+  "lon": 15.4859981,
+  "naslov": "Cesta kr\u0161kih \u017ertev 59",
+  "cena": 8.8,
+  "doplacilo": 5.3,
+  "posid": "2115",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2115",
+  "lokal": "STARA KR\u0160KA PIZZERIJA",
+  "city": "KR\u0160KO",
+  "sort-group": 83,
+  "delovniCasTeden": [
+   540,
+   1320
+  ],
+  "delovniCasSobota": [
+   540,
+   1320
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 45.9620105,
+  "lon": 15.4859981,
+  "naslov": "Cesta kr\u0161kih \u017ertev 59",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2116",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2116",
+  "lokal": "STARA KR\u0160KA PIZZERIJA - DOSTAVA",
+  "city": "KR\u0160KO",
+  "sort-group": 83,
+  "delovniCasTeden": [
+   540,
+   1320
+  ],
+  "delovniCasSobota": [
+   540,
+   1320
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5573679,
+  "lon": 15.6450408,
+  "naslov": "Glavni trg 5",
+  "cena": 7.6,
+  "doplacilo": 4.1,
+  "posid": "2569",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2569",
+  "lokal": "STARI GRILL",
+  "city": "MARIBOR",
+  "sort-group": 83,
+  "delovniCasTeden": [
+   540,
+   1200
+  ],
+  "delovniCasSobota": [
+   540,
+   1200
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0469188,
+  "lon": 14.5009328,
+  "naslov": "Slovenska cesta 1",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "2714",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2714",
+  "lokal": "SUBWAY",
+  "city": "LJUBLJANA",
+  "sort-group": 83,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   540,
+   1320
+  ]
+ },
+ {
+  "lat": 46.0589662,
+  "lon": 14.5064647,
+  "naslov": "Dunajska cesta 115a",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "2389",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2389",
+  "lokal": "SUBWAY BE\u017dIGRAD",
+  "city": "LJUBLJANA",
+  "sort-group": 83,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   540,
+   1320
+  ],
+  "delovniCasNedelja": [
+   540,
+   1320
+  ]
+ },
+ {
+  "lat": 46.0681081,
+  "lon": 14.5420462,
+  "naslov": "\u0160martinska cesta 152",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "2988",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2988",
+  "lokal": "SUBWAY BTC",
+  "city": "LJUBLJANA",
+  "sort-group": 83,
+  "delovniCasTeden": [
+   480,
+   1260
+  ],
+  "delovniCasSobota": [
+   540,
+   1260
+  ],
+  "delovniCasNedelja": [
+   540,
+   1260
+  ]
+ },
+ {
+  "lat": 45.54012,
+  "lon": 13.735118,
+  "naslov": "Ankaranska cesta 2",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "3090",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3090",
+  "lokal": "SUBWAY KOPER",
+  "city": "KOPER/CAPODISTRIA",
+  "sort-group": 83,
+  "delovniCasTeden": [
+   600,
+   1260
+  ],
+  "delovniCasSobota": [
+   600,
+   1260
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.047428,
+  "lon": 14.4998576,
+  "naslov": "Rimska cesta 13",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "3219",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3219",
+  "lokal": "\u0160AVIRMA",
+  "city": "LJUBLJANA",
+  "sort-group": 352,
+  "delovniCasTeden": [
+   540,
+   1200
+  ],
+  "delovniCasSobota": [
+   540,
+   900
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0525259,
+  "lon": 14.5098328,
+  "naslov": "Trubarjeva cesta 31",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "2092",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2092",
+  "lokal": "\u0160EHEREZADA",
+  "city": "LJUBLJANA",
+  "sort-group": 352,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   600,
+   1320
+  ]
+ },
+ {
+  "lat": 46.0563837,
+  "lon": 14.5050602,
+  "naslov": "Slovenska cesta 55",
+  "cena": 6.5,
+  "doplacilo": 3.0,
+  "posid": "3159",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3159",
+  "lokal": "\u0160EHEREZADA 2",
+  "city": "LJUBLJANA",
+  "sort-group": 352,
+  "delovniCasTeden": [
+   480,
+   1320
+  ],
+  "delovniCasSobota": [
+   480,
+   1320
+  ],
+  "delovniCasNedelja": [
+   600,
+   1320
+  ]
+ },
+ {
+  "lat": 46.051935,
+  "lon": 14.487097,
+  "naslov": "Svet\u010deva ulica 9",
+  "cena": 7.1,
+  "doplacilo": 3.6,
+  "posid": "2213",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2213",
+  "lokal": "\u0160TUDENTSKI DOM LJUBLJANA - RESTAVRACIJA",
+  "city": "LJUBLJANA",
+  "sort-group": 352,
+  "delovniCasTeden": [
+   660,
+   1020
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0502492,
+  "lon": 14.5145613,
+  "naslov": "Poljanska 14",
+  "cena": 8.4,
+  "doplacilo": 4.9,
+  "posid": "2289",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2289",
+  "lokal": "TAJ MAHAL",
+  "city": "LJUBLJANA",
+  "sort-group": 84,
+  "delovniCasTeden": [
+   660,
+   1320
+  ],
+  "delovniCasSobota": [
+   720,
+   1320
+  ],
+  "delovniCasNedelja": [
+   720,
+   1320
+  ]
+ },
+ {
+  "lat": 46.0502492,
+  "lon": 14.5145613,
+  "naslov": "Poljanska 14",
+  "cena": 8.4,
+  "doplacilo": 4.9,
+  "posid": "2532",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2532",
+  "lokal": "TAJ MAHAL - DOSTAVA",
+  "city": "LJUBLJANA",
+  "sort-group": 84,
+  "delovniCasTeden": [
+   660,
+   1320
+  ],
+  "delovniCasSobota": [
+   720,
+   1200
+  ],
+  "delovniCasNedelja": [
+   720,
+   1200
+  ]
+ },
+ {
+  "lat": 46.5326581,
+  "lon": 15.673326,
+  "naslov": "Ulica Heroja Nandeta 31",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "3202",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3202",
+  "lokal": "TAVERNA PALERMO",
+  "city": "MARIBOR",
+  "sort-group": 84,
+  "delovniCasTeden": [
+   600,
+   1140
+  ],
+  "delovniCasSobota": [
+   600,
+   1200
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5326581,
+  "lon": 15.673326,
+  "naslov": "Ulica Heroja Nandeta 31",
+  "cena": 8.5,
+  "doplacilo": 5.0,
+  "posid": "3203",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3203",
+  "lokal": "TAVERNA PALERMO - DOSTAVA",
+  "city": "MARIBOR",
+  "sort-group": 84,
+  "delovniCasTeden": [
+   600,
+   1140
+  ],
+  "delovniCasSobota": [
+   600,
+   1200
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.051198,
+  "lon": 14.4867877,
+  "naslov": "Svet\u010deva ulica 14",
+  "cena": 7.2,
+  "doplacilo": 3.7,
+  "posid": "1262",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1262",
+  "lokal": "UFO",
+  "city": "LJUBLJANA",
+  "sort-group": 85,
+  "delovniCasTeden": [
+   660,
+   1320
+  ],
+  "delovniCasSobota": [
+   720,
+   1320
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 45.5440568,
+  "lon": 13.7271687,
+  "naslov": "Cesta Zore Perello Godina3",
+  "cena": 8.8,
+  "doplacilo": 5.3,
+  "posid": "3208",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3208",
+  "lokal": "URBAN PIQNIQ",
+  "city": "KOPER/CAPODISTRIA",
+  "sort-group": 85,
+  "delovniCasTeden": [
+   630,
+   1320
+  ],
+  "delovniCasSobota": [
+   720,
+   1320
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.049579,
+  "lon": 14.5168208,
+  "naslov": "Poljanska 22",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "3226",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3226",
+  "lokal": "UR\u0160IN BISTRO",
+  "city": "LJUBLJANA",
+  "sort-group": 85,
+  "delovniCasTeden": [
+   480,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.056135,
+  "lon": 14.519132,
+  "naslov": "\u0160martinska cesta 3",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2882",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2882",
+  "lokal": "UTRIP - BAR, BISTRO IN KAVARNA",
+  "city": "LJUBLJANA",
+  "sort-group": 85,
+  "delovniCasTeden": [
+   660,
+   1140
+  ],
+  "delovniCasSobota": [
+   660,
+   1140
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.062892,
+  "lon": 14.4989731,
+  "naslov": "\u017dibretova 23",
+  "cena": 8.0,
+  "doplacilo": 4.5,
+  "posid": "1339",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1339",
+  "lokal": "VEGETARIJANSKA RESTAVRACIJA RADHA GOVINDA",
+  "city": "LJUBLJANA",
+  "sort-group": 86,
+  "delovniCasTeden": [
+   660,
+   1020
+  ],
+  "delovniCasSobota": [
+   660,
+   1020
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.4186013,
+  "lon": 15.8791007,
+  "naslov": "Ormo\u0161ka cesta 15",
+  "cena": 8.9,
+  "doplacilo": 5.4,
+  "posid": "3141",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3141",
+  "lokal": "VERDI PTUJ",
+  "city": "PTUJ",
+  "sort-group": 86,
+  "delovniCasTeden": [
+   600,
+   1080
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.56325575,
+  "lon": 15.62920102,
+  "naslov": "Turnerjeva ulica 17",
+  "cena": 5.2,
+  "doplacilo": 1.7,
+  "posid": "3002",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3002",
+  "lokal": "VILLAGE SNACKS",
+  "city": "MARIBOR",
+  "sort-group": 86,
+  "delovniCasTeden": [
+   540,
+   1020
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0782899,
+  "lon": 14.4836777,
+  "naslov": "Raku\u0161eva ulica 1",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "3117",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3117",
+  "lokal": "VINO & RIBE ALEJA",
+  "city": "LJUBLJANA",
+  "sort-group": 86,
+  "delovniCasTeden": [
+   600,
+   1260
+  ],
+  "delovniCasSobota": [
+   600,
+   1260
+  ],
+  "delovniCasNedelja": [
+   660,
+   1260
+  ]
+ },
+ {
+  "lat": 46.0810742,
+  "lon": 14.4794686,
+  "naslov": "Stari trg 28",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "3061",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3061",
+  "lokal": "VINO & RIBE CENTER",
+  "city": "LJUBLJANA",
+  "sort-group": 86,
+  "delovniCasTeden": [
+   720,
+   1260
+  ],
+  "delovniCasSobota": [
+   720,
+   1260
+  ],
+  "delovniCasNedelja": [
+   720,
+   1260
+  ]
+ },
+ {
+  "lat": 46.0218387,
+  "lon": 14.5359136,
+  "naslov": "Jur\u010dkova cesta 223",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "3201",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3201",
+  "lokal": "VINO & RIBE RUDNIK",
+  "city": "LJUBLJANA",
+  "sort-group": 86,
+  "delovniCasTeden": [
+   600,
+   1260
+  ],
+  "delovniCasSobota": [
+   600,
+   1260
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0764534,
+  "lon": 14.5115361,
+  "naslov": "Dunajska cesta 125",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2742",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2742",
+  "lokal": "VIVO D125",
+  "city": "LJUBLJANA",
+  "sort-group": 86,
+  "delovniCasTeden": [
+   600,
+   840
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0892556,
+  "lon": 14.4771914,
+  "naslov": "Cesta Ljubljanske brigade 33",
+  "cena": 8.2,
+  "doplacilo": 4.7,
+  "posid": "1576",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1576",
+  "lokal": "VOZI MI\u0160KO \u0160I\u0160KA",
+  "city": "LJUBLJANA",
+  "sort-group": 86,
+  "delovniCasTeden": [
+   600,
+   1200
+  ],
+  "delovniCasSobota": [
+   600,
+   1200
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5593704,
+  "lon": 15.647724,
+  "naslov": "Vetrinjska ulic 15",
+  "cena": 5.52,
+  "doplacilo": 2.02,
+  "posid": "3078",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/3078",
+  "lokal": "WOK MIX CENTER",
+  "city": "MARIBOR",
+  "sort-group": 87,
+  "delovniCasTeden": [
+   600,
+   1200
+  ],
+  "delovniCasSobota": [
+   600,
+   1200
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0661965,
+  "lon": 14.517229,
+  "naslov": "Topni\u0161ka 29a",
+  "cena": 7.0,
+  "doplacilo": 3.5,
+  "posid": "1350",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1350",
+  "lokal": "ZAMARO COFFEE LOUNGE",
+  "city": "LJUBLJANA",
+  "sort-group": 90,
+  "delovniCasTeden": [
+   690,
+   930
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.047428,
+  "lon": 14.4998576,
+  "naslov": "Rimska cesta 13",
+  "cena": 9.0,
+  "doplacilo": 5.5,
+  "posid": "2952",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2952",
+  "lokal": "ZBORNICA BAR IN \u017dAR",
+  "city": "LJUBLJANA",
+  "sort-group": 90,
+  "delovniCasTeden": [
+   960,
+   1320
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0419603,
+  "lon": 14.4899295,
+  "naslov": "Jadranska ulica 21",
+  "cena": 3.5,
+  "doplacilo": 0.0,
+  "posid": "2993",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2993",
+  "lokal": "ZNANSTVENA KAVARNA MAFIJA",
+  "city": "LJUBLJANA",
+  "sort-group": 90,
+  "delovniCasTeden": [
+   450,
+   900
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 45.546168,
+  "lon": 13.725994,
+  "naslov": "Pristani\u0161ka ulica 2",
+  "cena": 4.0,
+  "doplacilo": 0.5,
+  "posid": "2009",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2009",
+  "lokal": "\u017dITO KOPER",
+  "city": "KOPER/CAPODISTRIA",
+  "sort-group": 381,
+  "delovniCasTeden": [
+   480,
+   1200
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.5592387,
+  "lon": 15.6484212,
+  "naslov": "Trg Leona \u0160tuklja 1",
+  "cena": 4.0,
+  "doplacilo": 0.5,
+  "posid": "2956",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2956",
+  "lokal": "\u017dITO LEON \u0160TUKELJ MARIBOR",
+  "city": "MARIBOR",
+  "sort-group": 381,
+  "delovniCasTeden": [
+   480,
+   1200
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0579939,
+  "lon": 14.5114823,
+  "naslov": "Trg OF 7",
+  "cena": 4.0,
+  "doplacilo": 0.5,
+  "posid": "2535",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2535",
+  "lokal": "\u017dITO LJUBLANA \u017dELEZNI\u0160KA (KOLODVOR)",
+  "city": "LJUBLJANA",
+  "sort-group": 381,
+  "delovniCasTeden": [
+   480,
+   1200
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0569106,
+  "lon": 14.505859,
+  "naslov": "Slovenska cesta 58",
+  "cena": 4.0,
+  "doplacilo": 0.5,
+  "posid": "2771",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2771",
+  "lokal": "\u017dITO LJUBLJANA BAVARSKI DVOR",
+  "city": "LJUBLJANA",
+  "sort-group": 381,
+  "delovniCasTeden": [
+   480,
+   1200
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.0506123,
+  "lon": 14.5092262,
+  "naslov": "Vodnikov trg 5",
+  "cena": 4.0,
+  "doplacilo": 0.5,
+  "posid": "1791",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/1791",
+  "lokal": "\u017dITO LJUBLJANA VODNIK",
+  "city": "LJUBLJANA",
+  "sort-group": 381,
+  "delovniCasTeden": [
+   480,
+   1200
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ },
+ {
+  "lat": 46.554224,
+  "lon": 15.6461698,
+  "naslov": "Trg revolucije 2",
+  "cena": 4.0,
+  "doplacilo": 0.5,
+  "posid": "2322",
+  "detailslink": "https://www.studentska-prehrana.si/sl/restaurant/Details/2322",
+  "lokal": "\u017dITO MARIBOR TRG REVOLUCIJE",
+  "city": "MARIBOR",
+  "sort-group": 381,
+  "delovniCasTeden": [
+   480,
+   1200
+  ],
+  "delovniCasSobota": [
+   0,
+   0
+  ],
+  "delovniCasNedelja": [
+   0,
+   0
+  ]
+ }
+]
